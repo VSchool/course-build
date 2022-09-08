@@ -2,16 +2,26 @@
 
 *** point distribution ***
 
-Leave lessons as is (dont update time)
-1 story point = 1 hour
-< 1 hr => use mins
+If story point is >= 1, adjust the time object
 
-Leave assignment value as is
+1 story point or more: 1 hour - 2 hours
+4 story points or more: 4 hours
+Less than 1 story point: leave as is (do not update time object)
 
-***resources***
-Go through each object and corresponding notion page to check if there are 
+
+*** days to complete property ***
+1 - 3 story points: 1 day
+4 - 8 story points: 2 days
+8+ story points: 3 days
+
+*** assignment property ***
+Leave assignment value as is (do not change)
+
+*** resources property***
+Go through each object and its corresponding notion page to check if there are 
 any embedded videos
-For each embdedded video 
+For each embdedded video, add a new object to the resources property with the 
+following values: 
 
 ```
 "resource":[
