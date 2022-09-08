@@ -2,7 +2,7 @@
 
 ### point distribution ###
 
-If story point is >= 1, adjust the time object\
+If story point is >= 1, adjust the time object
 
 1 story point or more: 1 hour - 2 hours\
 4 story points or more: 4 hours\
@@ -15,7 +15,7 @@ Less than 1 story point: leave as is (do not update time object)\
 8+ story points: 3 days\
 
 ### assignment property ###
-Leave assignment value as is (do not change)\
+Leave assignment value as is (do not change)
 
 ### resources property ###
 Go through each object and its corresponding notion page to check if there are 
