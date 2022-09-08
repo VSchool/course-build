@@ -2,26 +2,26 @@
 
 ### point distribution ###
 
-If story point is >= 1, adjust the time object
+If story point is >= 1, adjust the time object_
 
-1 story point or more: 1 hour - 2 hours__
-4 story points or more: 4 hours__
-Less than 1 story point: leave as is (do not update time object)__
+1 story point or more: 1 hour - 2 hours_
+4 story points or more: 4 hours_
+Less than 1 story point: leave as is (do not update time object)_
 
 
 ### days to complete property ###
-1 - 3 story points: 1 day__
-4 - 8 story points: 2 days__
-8+ story points: 3 days__
+1 - 3 story points: 1 day_
+4 - 8 story points: 2 days_
+8+ story points: 3 days_
 
 ### assignment property ###
-Leave assignment value as is (do not change)__
+Leave assignment value as is (do not change)_
 
-### resources property###
+### resources property ###
 Go through each object and its corresponding notion page to check if there are 
-any embedded videos__
+any embedded videos_
 For each embdedded video, add a new object to the resources property with the 
-following values:__
+following values:_
 
 ```
 "resource":[
