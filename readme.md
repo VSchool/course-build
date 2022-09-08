@@ -34,7 +34,7 @@ following values:\
 
 ```
 
-Options:\ 
+Options: \ 
 title: "Scrimba lesson" or "Youtube Lesson" or "Loom Lesson"\
 imgUrl: Youtube lesson - "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg", \
 Scrimba lesson - "https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg" , \
