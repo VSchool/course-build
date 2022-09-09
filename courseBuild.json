@@ -2728,7 +2728,7 @@
           },
           "points":0.5,
           "order":15,
-          "title":"\"ForEach, Find, FindIndex\"",
+          "title":"ForEach, Find, FindIndex",
           "url":"notion",
           "uid":"2.1javascript2_foreachfindfindindex",
           "assignment":false,
@@ -2981,8 +2981,8 @@
           "resource":[
             {
               "url":"https://docs.google.com/forms/d/e/1FAIpQLScdS7cfa4S9lhnuNECxjy69j0exqGljnCwk9rr0o7LGq0vkEw/viewform?usp=sf_link",
-              "imgUrl":"https://www.klipfolio.com/gatsby-files/static/fb9368283183f15aaa27d360216cc452/google-sheets-blog-banner.png",
-              "title":"Google Resource"
+              "imgUrl":"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "title":"GoogleQuiz"
             }
           ],
           "type":"Quiz"
@@ -3460,7 +3460,7 @@
           },
           "points":0.5,
           "order":39,
-          "title":"https://scrimba.com/scrim/ca3KJmTPRUD",
+          "title":"CRUD",
           "url":"notion",
           "uid":"2.7http_httpsscrimba.comscrimca3kjmtprud",
           "assignment":false,
