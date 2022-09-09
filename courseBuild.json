@@ -8894,6 +8894,7 @@
           "time":{
             "increment":"hours",
             "total":4
+
           },
           "section":"4.1 Advanced React",  
           "next":{
@@ -8917,10 +8918,10 @@
           "type":"Assignment"
         },
         {
-          "daysToComplete":8,
+          "daysToComplete":3,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":16
           },
           "section":"4.1 Advanced React",
           "next":{
@@ -8944,7 +8945,9 @@
           "type":"Assignment"
         },
         {
+
           "daysToComplete":1,
+
           "time":{
             "increment":"mins",
             "total":10
@@ -8977,7 +8980,11 @@
           "type":"Lesson"
         },
         {
+
           "daysToComplete":1,
+
+
+
           "time":{
             "increment":"mins",
             "total":10
@@ -9001,7 +9008,11 @@
           "uid":"4.1advancedreact_reactrouterv6routersetup",
           "assignment":false,
           "resource":[
-            {}
+            {
+              "url": "https://www.youtube.com/watch?v=9D229ZbnC-Q&list=PL1whVIy6oz7Pc83Ic9tQiTJOGkcvrU7i6&index=2",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
           ],
           "type":"Lesson"
         },
@@ -9030,7 +9041,11 @@
           "uid":"4.1advancedreact_reactrouterv6link",
           "assignment":false,
           "resource":[
-            {}
+            {
+              "url": "https://youtu.be/SQiweGgzJXs?list=PL1whVIy6oz7Pc83Ic9tQiTJOGkcvrU7i6",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
           ],
           "type":"Lesson"
         },
@@ -9059,7 +9074,11 @@
           "uid":"4.1advancedreact_reactrouterv6usenavigate",
           "assignment":false,
           "resource":[
-            {}
+            {
+              "url": "https://www.youtube.com/watch?v=qvpwwXkx04Q&list=PL1whVIy6oz7Pc83Ic9tQiTJOGkcvrU7i6&index=4",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
           ],
           "type":"Lesson"
         },
@@ -9088,15 +9107,19 @@
           "uid":"4.1advancedreact_reactrouterv6useparams",
           "assignment":false,
           "resource":[
-            {}
+            {
+              "url": "https://www.youtube.com/watch?v=EzV_BZiNBbU&list=PL1whVIy6oz7Pc83Ic9tQiTJOGkcvrU7i6&index=5",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
           ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"4.1 Advanced React",
           "next":{
@@ -9120,10 +9143,10 @@
           "type":"Assignment"
         },
         {
-          "daysToComplete":8,
+          "daysToComplete":3,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":16
           },
           "section":"4.3 Final Project",
           "next":{
@@ -9149,8 +9172,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"Level 4 Career Prep",
           "next":{
@@ -9203,8 +9226,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"Level 4 Career Prep",
           "next":{
@@ -9278,14 +9301,20 @@
           "url":"notion",
           "uid":"4.4finalquiz_endoflevel4quiz",
           "assignment":true,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLScTm28w_vVD7G55WDjIFz0zvXtFCNZcH0H1MGnX-n3fbI5jsg/viewform?usp=sf_link",
+              "imgUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "title": "GoogleQuiz"
+            }
+          ],
           "type":"Evaluation"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"4.4 Final Assessment",
           "next":{
@@ -9349,14 +9378,20 @@
           "url":"notion",
           "uid":"5.1expressservers_introductiontoserversideprogramming",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/90jb9FJEi9Q",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":6
+            "total":10
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -9376,7 +9411,13 @@
           "url":"notion",
           "uid":"5.1expressservers_httpreview",
           "assignment":false,
-          "resource":[],
+          "resource":[
+              {
+                "url": "https://youtu.be/3Xk_U9jKauU",
+                "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                "title": "Youtube lesson"
+              }
+          ],
           "type":"Lesson"
         },
         {
@@ -9403,11 +9444,20 @@
           "url":"notion",
           "uid":"5.1expressservers_nodemodulebasics",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/z7Rknc3icY4",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
+
           "daysToComplete":1,
+
+
           "time":{
             "increment":"mins",
             "total":15
@@ -9430,7 +9480,13 @@
           "url":"notion",
           "uid":"5.1expressservers_modulepatterns",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/I-Q6BqfwXnY",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9457,7 +9513,13 @@
           "url":"notion",
           "uid":"5.1expressservers_introtoexpress",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/NYTmA7anV_s",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9484,7 +9546,13 @@
           "url":"notion",
           "uid":"5.1expressservers_firstexpressserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/33rYWT2vdJU",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9511,7 +9579,13 @@
           "url":"notion",
           "uid":"5.1expressservers_installnodemon",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Ps_GGzN44DE",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Set Up"
         },
         {
@@ -9538,14 +9612,20 @@
           "url":"notion",
           "uid":"5.1expressservers_getrequest",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/U0hDlcfoybI?list=PL1whVIy6oz7PXKvf9ivEtmXbkR7-QOa0I",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":25
+            "increment":"hours",
+            "total":1
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -9565,7 +9645,13 @@
           "url":"notion",
           "uid":"5.1expressservers_introductiontorest",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Q5ETjJLGaOc",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9592,7 +9678,13 @@
           "url":"notion",
           "uid":"5.1expressservers_requestbodypostrequest",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/q-81qgJgfE8",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9619,7 +9711,13 @@
           "url":"notion",
           "uid":"5.1expressservers_weneedids",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/rpY17fgRMUI",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9646,7 +9744,13 @@
           "url":"notion",
           "uid":"5.1expressservers_expressrouter",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/W2PoWjAm0V0",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9700,7 +9804,13 @@
           "url":"notion",
           "uid":"5.1expressservers_expressparams",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Flomle9E2o0",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9727,14 +9837,20 @@
           "url":"notion",
           "uid":"5.1expressservers_expressqueries",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/OyPfdT2d5Dw",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":60
+            "increment":"hours",
+            "total":2
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -9781,7 +9897,14 @@
           "url":"notion",
           "uid":"5.1expressservers_deleterequestinexpress",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/YXVAI-QVJUQ",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+            
+          ],
           "type":"Lesson"
         },
         {
@@ -9808,7 +9931,14 @@
           "url":"notion",
           "uid":"5.1expressservers_putrequestinexpress",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/xrMtklfzS-w",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+            
+          ],
           "type":"Lesson"
         },
         {
@@ -9835,14 +9965,21 @@
           "url":"notion",
           "uid":"5.1expressservers_middlewareandnext",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/9U1sdRIUD2Y",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+         
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":60
+            "increment":"hours",
+            "total":2
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -9868,8 +10005,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":60
+            "increment":"hours",
+            "total": 2
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -9920,7 +10057,10 @@
           "type":"Project Exercise"
         },
         {
+
           "daysToComplete":1,
+
+
           "time":{
             "increment":"mins",
             "total":20
@@ -9943,7 +10083,14 @@
           "url":"notion",
           "uid":"5.1expressservers_installmorgan",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/or6ZpWw-MfI",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+            
+          ],
           "type":"Set Up"
         },
         {
@@ -9970,7 +10117,13 @@
           "url":"notion",
           "uid":"5.1expressservers_connectingthefrontendtothebackend",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/QfB9hxEEKFM",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -9997,7 +10150,13 @@
           "url":"notion",
           "uid":"5.1expressservers_getrequesttoyourserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/5i8agSwT9BU",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10024,7 +10183,13 @@
           "url":"notion",
           "uid":"5.1expressservers_postrequesttoyourserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/ABJP_9pU5tQ",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10051,7 +10216,13 @@
           "url":"notion",
           "uid":"5.1expressservers_deleterequesttoyourserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/UNmkPuya3csQ",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10078,14 +10249,20 @@
           "url":"notion",
           "uid":"5.1expressservers_putrequesttoyourserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/v7HM6WPovb4",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"days",
-            "total":1.5
+            "increment":"hours",
+            "total":4
           },
           "section":"5.1 Express/Servers",
           "next":{
@@ -10132,7 +10309,13 @@
           "url":"notion",
           "uid":"5.1expressservers_errorhandlinginexpress",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/EmOFpelXkFA",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10159,7 +10342,13 @@
           "url":"notion",
           "uid":"5.1expressservers_addingstatuscodes",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/6RoD7lZwzW4",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10186,7 +10375,13 @@
           "url":"notion",
           "uid":"5.3databases_introductiontodatabases",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/6IuBS7ywUk4",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10213,7 +10408,13 @@
           "url":"notion",
           "uid":"5.3databases_installmongodb",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/dEYVQWc4I1U",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Set Up"
         },
         {
@@ -10240,7 +10441,13 @@
           "url":"notion",
           "uid":"5.3databases_introductiontomongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/JBoY8MDEzP0",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10267,7 +10474,13 @@
           "url":"notion",
           "uid":"5.3databases_schemasmodelsinmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/WcwFUlF1Hew",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10294,7 +10507,13 @@
           "url":"notion",
           "uid":"5.3databases_getrequestwmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/tVFbJMlsc9U",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10321,7 +10540,13 @@
           "url":"notion",
           "uid":"5.3databases_postrequestwmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/UOLyFknzlDQ",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10348,7 +10573,13 @@
           "url":"notion",
           "uid":"5.3databases_installmongodbcompass",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/WSjyVP0Ppmk",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10375,7 +10606,13 @@
           "url":"notion",
           "uid":"5.3databases_deleterequestwmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Ba2YnVfGATI",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Set Up"
         },
         {
@@ -10402,7 +10639,13 @@
           "url":"notion",
           "uid":"5.3databases_putrequestwmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/kl7aBSD6o4o",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10429,7 +10672,13 @@
           "url":"notion",
           "uid":"5.3databases_usingparamsandquerieswmongoose",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/90PEq5GdqIo",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10463,7 +10712,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"hours",
-            "total":3
+            "total":2
           },
           "section":"5.3 Databases",
           "next":{
@@ -10510,7 +10759,13 @@
           "url":"notion",
           "uid":"5.3databases_relatingdatainmongodbonetomany",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/xi6zaNsP8JI",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10537,7 +10792,13 @@
           "url":"notion",
           "uid":"5.3databases_mongodbmethods",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/xjXHf5h78kg",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -10564,14 +10825,20 @@
           "url":"notion",
           "uid":"5.3databases_collaborationwgit",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/kkoB_hxravA",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"Level 5 Career Prep",
           "next":{
@@ -10672,14 +10939,20 @@
           "url":"notion",
           "uid":"5.6finalassessment_finalquiz",
           "assignment":true,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSetgYLKXyqC7DS7d4ieYyKrUxYTfvCV90Km2Uf3rRka7FLnzg/viewform?usp=sf_link",
+              "imgUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "title": "GoogleQuiz"
+            }
+          ],
           "type":"Evaluation"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"5.6 Final Assessment",
           "next":{
@@ -10743,14 +11016,20 @@
           "url":"notion",
           "uid":"6.0_howtoapproachlevel6",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/tqHIMRlpIdo",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":60
+            "increment":"hours",
+            "total":2
           },
           "section":"6.0 Authentication",
           "next":{
@@ -10778,8 +11057,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"6.0 Authentication",
           "next":{
@@ -10826,7 +11105,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_authenticationbasics",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/qA_FgK-BYbA",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+        ],
           "type":"Lesson"
         },
         {
@@ -10853,14 +11138,20 @@
           "url":"notion",
           "uid":"6.1authenticationp1_settinguptheserver",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/gtexQtUbn90",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1.5
           },
           "section":"6.1 Authentication P1",
           "next":{
@@ -10880,14 +11171,20 @@
           "url":"notion",
           "uid":"6.1authenticationp1_creatingusermodel",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/x6xOA4bBNNs?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"6.1 Authentication P1",
           "next":{
@@ -10907,7 +11204,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_jsonwebtokensdotenv",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Q6YPsSYORlM",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -10934,7 +11237,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_creatingasignuproute",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/ZGHIwssTiJ8",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -10961,7 +11270,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_creatingaloginroute",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Eww-s_h_0eE",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -10988,7 +11303,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_expressjwtandunauthorizederrors",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/glK0aD-N44Q?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11015,7 +11336,13 @@
           "url":"notion",
           "uid":"6.1authenticationp1_relatingthetodomodeltoauser",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/b4TQZTDsPqw?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11042,14 +11369,20 @@
           "url":"notion",
           "uid":"6.1authenticationp1_creatingtheusertodoroutestesting",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/KlPyI3aG0uM",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"6.1 Authentication P1",
           "next":{
@@ -11096,7 +11429,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_goalsforthissectionpart2",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/7Q5s-eyZunI?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11123,7 +11462,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_creatingcontextfortheuser",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/Jpbz4oDmyuA?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11150,7 +11495,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_signupandlogin",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/frXNZ26OZlQ?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11177,7 +11528,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_savingtheuserandtoken",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/EUateUKmIGw",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11204,7 +11561,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_loggingout",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/5Kfu2zGR2-Y",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11231,14 +11594,20 @@
           "url":"notion",
           "uid":"6.3authenticationp2_axiosinterceptorsandaddinggettingtodos",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/FYeTSp1gHTo",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"6.3 Authentication P2",
           "next":{
@@ -11258,7 +11627,13 @@
           "url":"notion",
           "uid":"6.3authenticationp2_rtvsetupthefrontend",
           "assignment":true,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/FYeTSp1gHTo?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Assignment"
         },
         {
@@ -11285,7 +11660,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_goalsforthissectionpart3",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/M_utbR1EWx8",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11312,7 +11693,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_hashingpasswordsandschemahooks",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/XMM7AVa3CiA?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11339,7 +11726,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_schemamethodtocheckpasswords",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/sGgyD9z5-pw?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11366,7 +11759,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_schemamethodtoremovepasswords",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/BYa_oLIlluU",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11393,7 +11792,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_handlingloginsignuperrors",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/eQGuMn8lYow?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11420,7 +11825,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_conditionalviews",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/lh7qzQ-GS6U?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11447,7 +11858,13 @@
           "url":"notion",
           "uid":"6.3authenticationp3_protectedroutes",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://youtu.be/bI9hpw0QNxg?list=PL1whVIy6oz7NIpURZoywfBtGH0dN_GafK",
+              "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "title": "Youtube lesson"
+          }
+          ],
           "type":"Lesson"
         },
         {
@@ -11474,14 +11891,20 @@
           "url":"notion",
           "uid":"6.3authenticationp3_recapandlookingforward",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+            "url": "https://youtu.be/L3FvggiUj4Q",
+            "imgUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+            "title": "Youtube lesson"
+        }
+      ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"6.3 Authentication P3",
           "next":{
@@ -11505,10 +11928,10 @@
           "type":"Assignment"
         },
         {
-          "daysToComplete":8,
+          "daysToComplete":3,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"6.3 Authentication P3",
           "next":{
@@ -11532,10 +11955,10 @@
           "type":"Assignment"
         },
         {
-          "daysToComplete":8,
+          "daysToComplete":3,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"6.5 Final Project",
           "next":{
@@ -11582,14 +12005,20 @@
           "url":"notion",
           "uid":"6.6finalassessment_finalquiz",
           "assignment":true,
-          "resource":[],
+          "resource":[
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSeASbKLFHeYk3UamAiHKgCxbs8qRVoaJVJrh0oOXWYh7sr22Q/viewform",
+              "imgUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "title": "GoogleQuiz"
+            }
+          ],
           "type":"Evaluation"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"Level 6 Career Prep",
           "next":{
@@ -11642,8 +12071,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"6.6 Final Assessment",
           "next":{
