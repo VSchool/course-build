@@ -1,2811 +1,2866 @@
 {
-    "level1": {
-        "uid": "level1",
-        "order": 1,
-        "embed": {
-          "type": "notion",
-          "id": "89ee7582910f48c4aabf495e172fe4db"
-        },
-        "lessons": [
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Computer Setup",
-              "next":{
-                "lesson":"Windows Computer Setup for V School",
-                "moduleId":"level1",
-                "lessonId":"computersetup_windowscomputersetupforvschool",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"43c51674b7e74432b5532b05ceda38a3"
-              },
-              "points":4,
-              "order":1,
-              "title":"Mac Computer Setup for V School",
-              "url":"notion",
-              "uid":"computersetup_maccomputersetupforvschool",
-              "assignment":false,
-              "resource":[],
-              "type":"Set Up"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Computer Setup",
-              "next":{
-                "lesson":"Terminal Commands",
-                "moduleId":"level1",
-                "lessonId":"navigatingintheterminal_terminalcommands",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"8bfbf04c09674cccac3ac0667779cd0f"
-              },
-              "points":4,
-              "order":2,
-              "title":"Windows Computer Setup for V School",
-              "url":"notion",
-              "uid":"computersetup_windowscomputersetupforvschool",
-              "assignment":false,
-              "resource":[],
-              "type":"Set Up"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Navigating in the terminal",
-              "next":{
-                "lesson":"Terminal Practice",
-                "moduleId":"level1",
-                "lessonId":"navigatingintheterminal_terminalpractice",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"466f07c9a4c947e0bcfb68d040882dff"
-              },
-              "points":1,
-              "order":3,
-              "title":"Terminal Commands",
-              "url":"notion",
-              "uid":"navigatingintheterminal_terminalcommands",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Navigating in the terminal",
-              "next":{
-                "lesson":"Debugging Intro",
-                "moduleId":"level1",
-                "lessonId":"debugging_debuggingintro",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"e3b814a8fc07438da4f4df330ecefe87"
-              },
-              "points":1,
-              "order":4,
-              "title":"Terminal Practice",
-              "url":"notion",
-              "uid":"navigatingintheterminal_terminalpractice",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Debugging ",
-              "next":{
-                "lesson":"Problem Solving",
-                "moduleId":"level1",
-                "lessonId":"problemsolving_problemsolving",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"e5767048975c445a8305e24bae912fb3"
-              },
-              "points":0.5,
-              "order":5,
-              "title":"Debugging Intro",
-              "url":"notion",
-              "uid":"debugging_debuggingintro",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cR4EdJhM?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Problem Solving",
-              "next":{
-                "lesson":"Git & GitHub (YouTube Playlist, watch all videos)",
-                "moduleId":"level1",
-                "lessonId":"gitgithub_gitgithubyoutubeplaylistwatchallvideos",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c89d585bccf94a949fe1e4fde1219907"
-              },
-              "points":0.5,
-              "order":6,
-              "title":"Problem Solving",
-              "url":"notion",
-              "uid":"problemsolving_problemsolving",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Git & GitHub ",
-              "next":{
-                "lesson":"Elements, Console and Sources Tab",
-                "moduleId":"level1",
-                "lessonId":"devtools_elementsconsoleandsourcestab",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"743a8a6569464d0ba38b736f780090cd"
-              },
-              "points":4,
-              "order":7,
-              "title":"Git & GitHub (YouTube Playlist, watch all videos)",
-              "url":"notion",
-              "uid":"gitgithub_gitgithubyoutubeplaylistwatchallvideos",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Dev Tools",
-              "next":{
-                "lesson":"JavaScript Conventions",
-                "moduleId":"level1",
-                "lessonId":"javascriptconventions_javascriptconventions",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"012f35285c1d4a689c3b1fd4e44ed3c3"
-              },
-              "points":1,
-              "order":8,
-              "title":"Elements, Console and Sources Tab",
-              "url":"notion",
-              "uid":"devtools_elementsconsoleandsourcestab",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript Conventions",
-              "next":{
-                "lesson":"Assignment - Daily Planet Editor",
-                "moduleId":"level1",
-                "lessonId":"javascriptconventions_assignmentdailyplaneteditor",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c32f9bf74f404573af582fc1815346ac"
-              },
-              "points":0.5,
-              "order":9,
-              "title":"JavaScript Conventions",
-              "url":"notion",
-              "uid":"javascriptconventions_javascriptconventions",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c7zvQMfk?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript Conventions",
-              "next":{
-                "lesson":"Selecting Multiple Elements",
-                "moduleId":"level1",
-                "lessonId":"dom_selectingmultipleelements",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"093716f42a60451e8cedad062f500f1b"
-              },
-              "points":1,
-              "order":10,
-              "title":"Assignment - Daily Planet Editor",
-              "url":"notion",
-              "uid":"javascriptconventions_assignmentdailyplaneteditor",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cwyzqPUz?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Query Selector & QuerySelectorAll",
-                "moduleId":"level1",
-                "lessonId":"dom_queryselectorqueryselectorall",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"f51d2136675848ea821b40100f6e6e50"
-              },
-              "points":0.5,
-              "order":11,
-              "title":"Selecting Multiple Elements",
-              "url":"notion",
-              "uid":"dom_selectingmultipleelements",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cMvDgPf2?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Modifying an Elements Text",
-                "moduleId":"level1",
-                "lessonId":"dom_modifyinganelementstext",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"97fbaa8da025455782ebea6f6933d80a"
-              },
-              "points":0.5,
-              "order":12,
-              "title":"Query Selector & QuerySelectorAll",
-              "url":"notion",
-              "uid":"dom_queryselectorqueryselectorall",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cVyMrvsp?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Modifying Styles",
-                "moduleId":"level1",
-                "lessonId":"dom_modifyingstyles",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"408b33eb87194590be0730e1ba9010db"
-              },
-              "points":0.5,
-              "order":13,
-              "title":"Modifying an Elements Text",
-              "url":"notion",
-              "uid":"dom_modifyinganelementstext",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c9PLazU3?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Modifying Styles: className & classList",
-                "moduleId":"level1",
-                "lessonId":"dom_modifyingstylesclassnameclasslist",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"7a2822f46b5f43aa9fc8b8e7d7358c49"
-              },
-              "points":0.5,
-              "order":14,
-              "title":"Modifying Styles",
-              "url":"notion",
-              "uid":"dom_modifyingstyles",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cy64rwHL?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Modifying Elements: Value",
-                "moduleId":"level1",
-                "lessonId":"dom_modifyingelementsvalue",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"17d7a83d12364c0ba4077fb955fdd491"
-              },
-              "points":0.5,
-              "order":15,
-              "title":"Modifying Styles: className & classList",
-              "url":"notion",
-              "uid":"dom_modifyingstylesclassnameclasslist",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c7zLarhv?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Creating Elements in JS",
-                "moduleId":"level1",
-                "lessonId":"dom_creatingelementsinjs",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"2d9ece8143924c6f86cab6f2e0054405"
-              },
-              "points":0.5,
-              "order":16,
-              "title":"Modifying Elements: Value",
-              "url":"notion",
-              "uid":"dom_modifyingelementsvalue",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cEerDLud?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Creating Elements in JS: InnerHtml",
-                "moduleId":"level1",
-                "lessonId":"dom_creatingelementsinjsinnerhtml",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"3b09c092978845d8bc7084eefb83dbc9"
-              },
-              "points":0.5,
-              "order":17,
-              "title":"Creating Elements in JS",
-              "url":"notion",
-              "uid":"dom_creatingelementsinjs",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cZn78RS7?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Creating Elements in JS: For loops & createElement",
-                "moduleId":"level1",
-                "lessonId":"dom_creatingelementsinjsforloopscreateelement",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"0c8edc4b45c0414bb456f06ad46431c9"
-              },
-              "points":0.5,
-              "order":18,
-              "title":"Creating Elements in JS: InnerHtml",
-              "url":"notion",
-              "uid":"dom_creatingelementsinjsinnerhtml",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c39Wd4Ay?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"DOM JS Review",
-                "moduleId":"level1",
-                "lessonId":"dom_domjsreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"f4420900f2f54d6da3109547ecaedb07"
-              },
-              "points":0.5,
-              "order":19,
-              "title":"Creating Elements in JS: For loops & createElement",
-              "url":"notion",
-              "uid":"dom_creatingelementsinjsforloopscreateelement",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c66BNVUy?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Self study - get the value from an input element",
-                "moduleId":"level1",
-                "lessonId":"dom_selfstudygetthevaluefromaninputelement",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"a074193c0daf4748b3d117fdec59882d"
-              },
-              "points":0.5,
-              "order":20,
-              "title":"DOM JS Review",
-              "url":"notion",
-              "uid":"dom_domjsreview",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/czNM4QSP",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"DJ JS - Event listener practice",
-                "moduleId":"level1",
-                "lessonId":"dom_djjseventlistenerpractice",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"100542f2617c47d58f2c4cc8864e58aa"
-              },
-              "points":2,
-              "order":21,
-              "title":"Self study - get the value from an input element",
-              "url":"notion",
-              "uid":"dom_selfstudygetthevaluefromaninputelement",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cVyMwNtZ?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"DOM Manipulation Olympics",
-                "moduleId":"level1",
-                "lessonId":"dom_dommanipulationolympics",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"6bc6602b1d1141e49121acc6455049d7"
-              },
-              "points":2,
-              "order":22,
-              "title":"DJ JS - Event listener practice",
-              "url":"notion",
-              "uid":"dom_djjseventlistenerpractice",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"DOM Debug",
-                "moduleId":"level1",
-                "lessonId":"dom_domdebug",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"4b84b16bf2cc46d69768407700108c44"
-              },
-              "points":4,
-              "order":23,
-              "title":"DOM Manipulation Olympics",
-              "url":"notion",
-              "uid":"dom_dommanipulationolympics",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://coursework.vschool.io/dom-olympics-guide/",
-                  "imgUrl":"https://d1psgljc389n8q.cloudfront.net/bootcamps/logos/O9gdYuzf",
-                  "title":"Coursework Lesson"
-                },
-                {
-                  "url":" https://coursework.vschool.io/javascript-dom-manipulation/",
-                  "imgUrl":"https://d1psgljc389n8q.cloudfront.net/bootcamps/logos/O9gdYuzf",
-                  "title":"Coursework Lesson"
-                }
-              ],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"DOM",
-              "next":{
-                "lesson":"Anonymous Functions",
-                "moduleId":"level1",
-                "lessonId":"functions_anonymousfunctions",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"cb3b9ddbbaef4fea8d812adefa4e80da"
-              },
-              "points":2,
-              "order":24,
-              "title":"DOM Debug",
-              "url":"notion",
-              "uid":"dom_domdebug",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Functions",
-              "next":{
-                "lesson":"Arrow Functions",
-                "moduleId":"level1",
-                "lessonId":"functions_arrowfunctions",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"625ab975daac44b89ff5cde9910d54a9"
-              },
-              "points":0.5,
-              "order":25,
-              "title":"Anonymous Functions",
-              "url":"notion",
-              "uid":"functions_anonymousfunctions",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cgqyL6sP",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Functions",
-              "next":{
-                "lesson":"Forms part 1",
-                "moduleId":"level1",
-                "lessonId":"forms_formspart1",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"a35964fe64ae40e7bd7b129349258e39"
-              },
-              "points":0.5,
-              "order":26,
-              "title":"Arrow Functions",
-              "url":"notion",
-              "uid":"functions_arrowfunctions",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c8qPdWAk",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Forms",
-              "next":{
-                "lesson":"Forms  part 2",
-                "moduleId":"level1",
-                "lessonId":"forms_formspart2",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"cf133dd32cdc448dba214951f6258e8e"
-              },
-              "points":0.5,
-              "order":27,
-              "title":"Forms part 1",
-              "url":"notion",
-              "uid":"forms_formspart1",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cdPe9PAz",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Forms",
-              "next":{
-                "lesson":"Mom's Shopping List",
-                "moduleId":"level1",
-                "lessonId":"forms_momsshoppinglist",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"58cc8c80805f45659540f22b2bfe9758"
-              },
-              "points":0.5,
-              "order":28,
-              "title":"Forms  part 2",
-              "url":"notion",
-              "uid":"forms_formspart2",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cWQ36buL",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Forms",
-              "next":{
-                "lesson":"Mid-Level Quiz",
-                "moduleId":"level1",
-                "lessonId":"midlevelquiz_midlevelquiz",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"125d36a6be244020a397ac28de3bb291"
-              },
-              "points":4,
-              "order":29,
-              "title":"Mom's Shopping List",
-              "url":"notion",
-              "uid":"forms_momsshoppinglist",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Mid-Level QUIZ",
-              "next":{
-                "lesson":"Intro to Career Prep",
-                "moduleId":"level1",
-                "lessonId":"introtocareerprep_introtocareerprep",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"6cb9725217624a2097b18e08e8759df0"
-              },
-              "points":0,
-              "order":30,
-              "title":"Mid-Level Quiz",
-              "url":"notion",
-              "uid":"midlevelquiz_midlevelquiz",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://docs.google.com/forms/d/e/1FAIpQLSfMqoWS5vIEuEUdFS2_65nzRULieRHAfkKbHW1CcV7MisTsGQ/viewform?usp=sf_link",
-                  "imgUrl":"https://www.klipfolio.com/gatsby-files/static/fb9368283183f15aaa27d360216cc452/google-sheets-blog-banner.png",
-                  "title":"Google Resource"
-                }
-              ],
-              "type":"Quiz"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Intro to Career Prep",
-              "next":{
-                "lesson":"Mid Level assessment required before continuing",
-                "moduleId":"level1",
-                "lessonId":"assessment_midlevelassessmentrequiredbeforecontinuing",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c3e8971689fc4c168b509d16def05cc0"
-              },
-              "points":0.5,
-              "order":31,
-              "title":"Intro to Career Prep",
-              "url":"notion",
-              "uid":"introtocareerprep_introtocareerprep",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Assessment ",
-              "next":{
-                "lesson":"Node.js Intro",
-                "moduleId":"level1",
-                "lessonId":"nodejs_nodejsintro",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"6f7fffed111f4cbcb3093d15bc499922"
-              },
-              "points":1,
-              "order":32,
-              "title":"Mid Level assessment required before continuing",
-              "url":"notion",
-              "uid":"assessment_midlevelassessmentrequiredbeforecontinuing",
-              "assignment":true,
-              "resource":[],
-              "type":"Evaluation"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Node.js ",
-              "next":{
-                "lesson":"NPM and readline-sync",
-                "moduleId":"level1",
-                "lessonId":"forms_npmandreadlinesync",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"7e8ba95447274f53aab9115ecf353a43"
-              },
-              "points":0.5,
-              "order":33,
-              "title":"Node.js Intro",
-              "url":"notion",
-              "uid":"nodejs_nodejsintro",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Forms",
-              "next":{
-                "lesson":"Node Calculator",
-                "moduleId":"level1",
-                "lessonId":"forms_nodecalculator",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"a0408ec57e3947919c640f3e49e95fdc"
-              },
-              "points":0.5,
-              "order":34,
-              "title":"NPM and readline-sync",
-              "url":"notion",
-              "uid":"forms_npmandreadlinesync",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Forms",
-              "next":{
-                "lesson":"Arrays Review",
-                "moduleId":"level1",
-                "lessonId":"javascript_arraysreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"3ea5d6e5e8024f17b93a834620ff5cc6"
-              },
-              "points":2,
-              "order":35,
-              "title":"Node Calculator",
-              "url":"notion",
-              "uid":"forms_nodecalculator",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Loops Review",
-                "moduleId":"level1",
-                "lessonId":"javascript_loopsreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"a7d7cbf2f6954bf7bbb526e494dddf48"
-              },
-              "points":0.5,
-              "order":36,
-              "title":"Arrays Review",
-              "url":"notion",
-              "uid":"javascript_arraysreview",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cvzqvZUR",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Arrays + Loops",
-                "moduleId":"level1",
-                "lessonId":"javascript_arraysloops",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"28c2b5d5e87f4a06bebc29bb02eec328"
-              },
-              "points":0.5,
-              "order":37,
-              "title":"Loops Review",
-              "url":"notion",
-              "uid":"javascript_loopsreview",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cWQVz3fV",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Loops and Arrays Practice",
-                "moduleId":"level1",
-                "lessonId":"javascript_loopsandarrayspractice",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"6d73e9c343d04b58817efbe6573284d3"
-              },
-              "points":0.5,
-              "order":38,
-              "title":"Arrays + Loops",
-              "url":"notion",
-              "uid":"javascript_arraysloops",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cN3WMNAL",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Nested Loops",
-                "moduleId":"level1",
-                "lessonId":"javascript_nestedloops",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"39986d02af0e458ab7b9e6848cd60569"
-              },
-              "points":2,
-              "order":39,
-              "title":"Loops and Arrays Practice",
-              "url":"notion",
-              "uid":"javascript_loopsandarrayspractice",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Loop Olympics",
-                "moduleId":"level1",
-                "lessonId":"javascript_loopolympics",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"8fd160815cc44b208e5908c774bb0a48"
-              },
-              "points":0.5,
-              "order":40,
-              "title":"Nested Loops",
-              "url":"notion",
-              "uid":"javascript_nestedloops",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cqRr8bUR",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Array Methods",
-                "moduleId":"level1",
-                "lessonId":"javascript_arraymethods",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"25f06a155c18439bb5fd479430690cb9"
-              },
-              "points":2,
-              "order":41,
-              "title":"Loop Olympics",
-              "url":"notion",
-              "uid":"javascript_loopolympics",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Array Methods Exercise",
-                "moduleId":"level1",
-                "lessonId":"javascript_arraymethodsexercise",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"7a24ae997dac41c1a113a84add165e03"
-              },
-              "points":0.5,
-              "order":42,
-              "title":"Array Methods",
-              "url":"notion",
-              "uid":"javascript_arraymethods",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cmkQJeAa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Forception",
-                "moduleId":"level1",
-                "lessonId":"javascript_forception",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"db1ade6feccd494eb67bbfeda618a9d2"
-              },
-              "points":1,
-              "order":43,
-              "title":"Array Methods Exercise",
-              "url":"notion",
-              "uid":"javascript_arraymethodsexercise",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"String Methods",
-                "moduleId":"level1",
-                "lessonId":"javascript_stringmethods",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"c1e544e3f3e24447a13446317019b5cf"
-              },
-              "points":1,
-              "order":44,
-              "title":"Forception",
-              "url":"notion",
-              "uid":"javascript_forception",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"String methods exercise",
-                "moduleId":"level1",
-                "lessonId":"javascript_stringmethodsexercise",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"f08663d9747041189882d8c0cd864acb"
-              },
-              "points":0.5,
-              "order":45,
-              "title":"String Methods",
-              "url":"notion",
-              "uid":"javascript_stringmethods",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c9PEkZfD",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Mutability and Value Types",
-                "moduleId":"level1",
-                "lessonId":"javascript_mutabilityandvaluetypes",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"ece9d1d139534fed9b7c7d669b78e4cb"
-              },
-              "points":1,
-              "order":46,
-              "title":"String methods exercise",
-              "url":"notion",
-              "uid":"javascript_stringmethodsexercise",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Constructor Functions",
-                "moduleId":"level1",
-                "lessonId":"javascript_constructorfunctions",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"d562cc64af0042cbaa6a9d2159658a9d"
-              },
-              "points":0.5,
-              "order":47,
-              "title":"Mutability and Value Types",
-              "url":"notion",
-              "uid":"javascript_mutabilityandvaluetypes",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cbW6m8cM",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Employee Records",
-                "moduleId":"level1",
-                "lessonId":"javascript_employeerecords",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"9c3e29a9304a489f911351c3ea4cb817"
-              },
-              "points":0.5,
-              "order":48,
-              "title":"Constructor Functions",
-              "url":"notion",
-              "uid":"javascript_constructorfunctions",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cEe88eUJ",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"ES6 Part 1",
-                "moduleId":"level1",
-                "lessonId":"javascript_es6part1",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"2531940deed1408ead4d75caa1d37876"
-              },
-              "points":2,
-              "order":49,
-              "title":"Employee Records",
-              "url":"notion",
-              "uid":"javascript_employeerecords",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"ES6 Part 2",
-                "moduleId":"level1",
-                "lessonId":"javascript_es6part2",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"66855fa39a704a8e850e95a298436515"
-              },
-              "points":0.5,
-              "order":50,
-              "title":"ES6 Part 1",
-              "url":"notion",
-              "uid":"javascript_es6part1",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cLrdmduQ",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Escape Room",
-                "moduleId":"level1",
-                "lessonId":"javascript_escaperoom",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"073b494080454dd0b122eee608784846"
-              },
-              "points":0.5,
-              "order":51,
-              "title":"ES6 Part 2",
-              "url":"notion",
-              "uid":"javascript_es6part2",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c4GEJJtv",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"JavaScript",
-              "next":{
-                "lesson":"Box Model Review",
-                "moduleId":"level1",
-                "lessonId":"boxmodel_boxmodelreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"7901da75c9b148209330c6c705069dec"
-              },
-              "points":2,
-              "order":52,
-              "title":"Escape Room",
-              "url":"notion",
-              "uid":"javascript_escaperoom",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Box Model",
-              "next":{
-                "lesson":"CSS Layout and Positioning",
-                "moduleId":"level1",
-                "lessonId":"css_csslayoutandpositioning",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"ddca5d008fd34b6dad47ac3abc997cd3"
-              },
-              "points":0.5,
-              "order":53,
-              "title":"Box Model Review",
-              "url":"notion",
-              "uid":"boxmodel_boxmodelreview",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cdPk4eSD",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/responsive-web-design/#basic-css",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"CSS ",
-              "next":{
-                "lesson":"Responsive Design",
-                "moduleId":"level1",
-                "lessonId":"responsivedesign_responsivedesign",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c6bca0dae2404e518cde8d12d9b3c78b"
-              },
-              "points":0.5,
-              "order":54,
-              "title":"CSS Layout and Positioning",
-              "url":"notion",
-              "uid":"css_csslayoutandpositioning",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cN3WMDs2?pl=pG66Msa",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Responsive Design",
-              "next":{
-                "lesson":"Responsive Color Grid From Scratch",
-                "moduleId":"level1",
-                "lessonId":"responsivedesign_responsivecolorgridfromscratch",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"6bcaad79be8640758b274f8bc2638cdb"
-              },
-              "points":0.5,
-              "order":55,
-              "title":"Responsive Design",
-              "url":"notion",
-              "uid":"responsivedesign_responsivedesign",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Responsive Design",
-              "next":{
-                "lesson":"Flexbox Part 1",
-                "moduleId":"level1",
-                "lessonId":"flexbox_flexboxpart1",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"1a3bc24b42b5445888c5e1024d866573"
-              },
-              "points":2,
-              "order":56,
-              "title":"Responsive Color Grid From Scratch",
-              "url":"notion",
-              "uid":"responsivedesign_responsivecolorgridfromscratch",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Flexbox",
-              "next":{
-                "lesson":"Flexbox Part 2",
-                "moduleId":"level1",
-                "lessonId":"flexbox_flexboxpart2",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"9d2608891c61407f98f4e8c579f02fc1"
-              },
-              "points":0.5,
-              "order":57,
-              "title":"Flexbox Part 1",
-              "url":"notion",
-              "uid":"flexbox_flexboxpart1",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cy6dzQAd",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Flexbox",
-              "next":{
-                "lesson":"Business Time Project",
-                "moduleId":"level1",
-                "lessonId":"businesstime_businesstimeproject",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c06ce3a4d854479088870d45c7efbadf"
-              },
-              "points":0.5,
-              "order":58,
-              "title":"Flexbox Part 2",
-              "url":"notion",
-              "uid":"flexbox_flexboxpart2",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/c66Zznu2",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Business Time",
-              "next":{
-                "lesson":"Grid Part 1",
-                "moduleId":"level1",
-                "lessonId":"grid_gridpart1",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"2add7e59d462402da7effb86cf6bdb9b"
-              },
-              "points":4,
-              "order":59,
-              "title":"Business Time Project",
-              "url":"notion",
-              "uid":"businesstime_businesstimeproject",
-              "assignment":true,
-              "resource":[],
-              "type":"Project"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Grid",
-              "next":{
-                "lesson":"Grid Part 2",
-                "moduleId":"level1",
-                "lessonId":"grid_gridpart2",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"afea436f47444cfd96f4b31d18f0fa60"
-              },
-              "points":0.5,
-              "order":60,
-              "title":"Grid Part 1",
-              "url":"notion",
-              "uid":"grid_gridpart1",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cdPr9VCz",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Grid",
-              "next":{
-                "lesson":"Grid Part 3",
-                "moduleId":"level1",
-                "lessonId":"grid_gridpart3",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"c65027e75ae9450a8f5238d9f3c7c0ef"
-              },
-              "points":0.5,
-              "order":61,
-              "title":"Grid Part 2",
-              "url":"notion",
-              "uid":"grid_gridpart2",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/czN32MAw",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                },
-                {
-                  "url":" https://www.freecodecamp.org/learn/responsive-web-design/#css-grid",
-                  "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
-                  "title":"FreeCodeCamp Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Grid",
-              "next":{
-                "lesson":"CSS Grid Practice",
-                "moduleId":"level1",
-                "lessonId":"grid_cssgridpractice",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"24027de0892f4296b98b67feccdf3bf4"
-              },
-              "points":0.5,
-              "order":62,
-              "title":"Grid Part 3",
-              "url":"notion",
-              "uid":"grid_gridpart3",
-              "assignment":false,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/scrim/cR4GvRCr",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":2,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Grid",
-              "next":{
-                "lesson":"Debugging Review",
-                "moduleId":"level1",
-                "lessonId":"debuggingreview_debuggingreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"f866e30c4ab0478bbaead8d477241bc9"
-              },
-              "points":4,
-              "order":63,
-              "title":"CSS Grid Practice",
-              "url":"notion",
-              "uid":"grid_cssgridpractice",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Debugging Review",
-              "next":{
-                "lesson":"Code Art School",
-                "moduleId":"level1",
-                "lessonId":"codeartschool_codeartschool",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"97de4368b17e42fc8ef4992b94b3ebce"
-              },
-              "points":0.5,
-              "order":64,
-              "title":"Debugging Review",
-              "url":"notion",
-              "uid":"debuggingreview_debuggingreview",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Code Art School",
-              "next":{
-                "lesson":"Bugs on a Plane",
-                "moduleId":"level1",
-                "lessonId":"bugsonaplane_bugsonaplane",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"ab7ebea751bf406e8bb3b3e95d953836"
-              },
-              "points":1,
-              "order":65,
-              "title":"Code Art School",
-              "url":"notion",
-              "uid":"codeartschool_codeartschool",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Bugs on a Plane",
-              "next":{
-                "lesson":"Problem Solving Review",
-                "moduleId":"level1",
-                "lessonId":"problemsolving_problemsolvingreview",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"3074bef4066c4348b4e20ea67671346d"
-              },
-              "points":1,
-              "order":66,
-              "title":"Bugs on a Plane",
-              "url":"notion",
-              "uid":"bugsonaplane_bugsonaplane",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Problem Solving ",
-              "next":{
-                "lesson":"fizzbuzz",
-                "moduleId":"level1",
-                "lessonId":"problemsolving_fizzbuzz",
-                "module":"Level 1"
-              },
-              "reviewerRole":"No Coach Needed",
-              "embed":{
-                "type":"notion",
-                "id":"213af75b476542ad83d2417fc7a1276e"
-              },
-              "points":0.5,
-              "order":67,
-              "title":"Problem Solving Review",
-              "url":"notion",
-              "uid":"problemsolving_problemsolvingreview",
-              "assignment":false,
-              "resource":[],
-              "type":"Lesson"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Problem Solving",
-              "next":{
-                "lesson":"Problem Solving Practice",
-                "moduleId":"level1",
-                "lessonId":"problemsolving_problemsolvingpractice",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"4706fa12b1c14e0a8b3895aa07640f8b"
-              },
-              "points":2,
-              "order":68,
-              "title":"fizzbuzz",
-              "url":"notion",
-              "uid":"problemsolving_fizzbuzz",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Problem Solving",
-              "next":{
-                "lesson":"End-Of-Level Quiz",
-                "moduleId":"level1",
-                "lessonId":"level1finalquiz_endoflevelquiz",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"010daea8ae5c4b369c2931cac0eed69a"
-              },
-              "points":2,
-              "order":69,
-              "title":"Problem Solving Practice",
-              "url":"notion",
-              "uid":"problemsolving_problemsolvingpractice",
-              "assignment":true,
-              "resource":[],
-              "type":"JS Exercise"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Level 1 Final Quiz",
-              "next":{
-                "lesson":"Your Story",
-                "moduleId":"level1",
-                "lessonId":"level1careerprep_yourstory",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"8365619e69f84d2082c55079d41c5b7a"
-              },
-              "points":0,
-              "order":70,
-              "title":"End-Of-Level Quiz",
-              "url":"notion",
-              "uid":"level1finalquiz_endoflevelquiz",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://docs.google.com/forms/d/e/1FAIpQLScSLHCtpCDbI6xPxdF2T3rsBBvz_8r64uyj6mnakI25Su8ucw/viewform?usp=sf_link",
-                  "imgUrl":"https://www.klipfolio.com/gatsby-files/static/fb9368283183f15aaa27d360216cc452/google-sheets-blog-banner.png",
-                  "title":"Google Resource"
-                }
-              ],
-              "type":"Quiz"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Level 1 Career Prep",
-              "next":{
-                "lesson":"Impostor Syndrome",
-                "moduleId":"level1",
-                "lessonId":"level1careerprep_impostorsyndrome",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"ea3387b796d04006bd77e74bc96b1ee9"
-              },
-              "points":0.5,
-              "order":71,
-              "title":"Your Story",
-              "url":"notion",
-              "uid":"level1careerprep_yourstory",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":1,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Level 1 Career Prep",
-              "next":{
-                "lesson":"Colossal Adventure RPG",
-                "moduleId":"level1",
-                "lessonId":"level1assessment_colossaladventurerpg",
-                "module":"Level 1"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"8a4504a74b5d49318a4cb715b703f7a8"
-              },
-              "points":0.5,
-              "order":72,
-              "title":"Impostor Syndrome",
-              "url":"notion",
-              "uid":"level1careerprep_impostorsyndrome",
-              "assignment":true,
-              "resource":[],
-              "type":"Assignment"
-            },
-            {
-              "daysToComplete":8,
-              "time":{
-                "increment":"mins",
-                "total":1
-              },
-              "section":"Level 1 Assessment",
-              "next":{
-                "lesson":"Problem Solving In Level 2",
-                "moduleId":"level2",
-                "lessonId":"intro_problemsolvinginlevel2",
-                "module":"Level 2"
-              },
-              "reviewerRole":"Technical Coach",
-              "embed":{
-                "type":"notion",
-                "id":"053770109bde47fd987347f50055115d"
-              },
-              "points":16,
-              "order":73,
-              "title":"Colossal Adventure RPG",
-              "url":"notion",
-              "uid":"level1assessment_colossaladventurerpg",
-              "assignment":true,
-              "resource":[
-                {
-                  "url":"https://scrimba.com/c/cQqLVghJ",
-                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-                  "title":"Scrimba Lesson"
-                }
-              ],
-              "type":"Project"
-            }
-          ],
-        "totals": {
-          "timeToAllocate": "160 hrs",
-          "points": "97",
-          "daysToComplete": "45",
-          "daysToCompleteFromStart": "45"
-        },
-        "name": "level 1"
-    },
-    "level2": {
-    "uid": "level2",
-    "order": 2,
-    "embed": {
+  "level1": {
+      "uid": "level1",
+      "order": 1,
+      "embed": {
         "type": "notion",
-        "id": "db3ab8079f7a4e0fa35e96a854f795ab"
-    },
-    "lessons":[
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":0
+        "id": "89ee7582910f48c4aabf495e172fe4db"
+      },
+      "lessons": [
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Computer Setup",
+            "next":{
+              "lesson":"Windows Computer Setup for V School",
+              "moduleId":"level1",
+              "lessonId":"computersetup_windowscomputersetupforvschool",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"43c51674b7e74432b5532b05ceda38a3"
+            },
+            "points":4,
+            "order":1,
+            "title":"Mac Computer Setup for V School",
+            "url":"notion",
+            "uid":"computersetup_maccomputersetupforvschool",
+            "assignment":false,
+            "resource":[],
+            "type":"Set Up"
           },
-          "section":"Intro",
-          "next":{
-            "lesson":"Forms Part 1",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_formspart1",
-            "module":"Level 2"
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Computer Setup",
+            "next":{
+              "lesson":"Terminal Commands",
+              "moduleId":"level1",
+              "lessonId":"navigatingintheterminal_terminalcommands",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"8bfbf04c09674cccac3ac0667779cd0f"
+            },
+            "points":4,
+            "order":2,
+            "title":"Windows Computer Setup for V School",
+            "url":"notion",
+            "uid":"computersetup_windowscomputersetupforvschool",
+            "assignment":false,
+            "resource":[  
+              {
+                "url":"https://www.youtube.com/watch?v=xvMAZsGDBKY&ab_channel=VSchool",
+                "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Set Up"
           },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"0ce2927397cb47d3bbe10ac386f69364"
-          },
-          "points":0,
-          "order":1,
-          "title":"Problem Solving In Level 2",
-          "url":"notion",
-          "uid":"intro_problemsolvinginlevel2",
-          "assignment":false,
-          "resource":[],
-          "type":"Lesson"
-        },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Simple HTML Calculator",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_simplehtmlcalculator",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"27b6df535f104d6b8c6096c88def0793"
-          },
-          "points":0.5,
-          "order":2,
-          "title":"Forms Part 1",
-          "url":"notion",
-          "uid":"2.1javascript2_formspart1",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cdPe9PAz",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Navigating in the terminal",
+            "next":{
+              "lesson":"Terminal Practice",
+              "moduleId":"level1",
+              "lessonId":"navigatingintheterminal_terminalpractice",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"466f07c9a4c947e0bcfb68d040882dff"
+            },
+            "points":1,
+            "order":3,
+            "title":"Terminal Commands",
+            "url":"notion",
+            "uid":"navigatingintheterminal_terminalcommands",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://www.youtube.com/watch?v=d7cBgop2tHo&ab_channel=LearnVSchool",
+                "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                "title":"Youtube Lesson"
             }
-          ],
-          "type":"Lesson"
+        
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Navigating in the terminal",
+            "next":{
+              "lesson":"Debugging Intro",
+              "moduleId":"level1",
+              "lessonId":"debugging_debuggingintro",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"e3b814a8fc07438da4f4df330ecefe87"
+            },
+            "points":1,
+            "order":4,
+            "title":"Terminal Practice",
+            "url":"notion",
+            "uid":"navigatingintheterminal_terminalpractice",
+            "assignment":true,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=-9MlW9-k6hs&ab_channel=LearnVSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Debugging ",
+            "next":{
+              "lesson":"Problem Solving",
+              "moduleId":"level1",
+              "lessonId":"problemsolving_problemsolving",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"e5767048975c445a8305e24bae912fb3"
+            },
+            "points":0.5,
+            "order":5,
+            "title":"Debugging Intro",
+            "url":"notion",
+            "uid":"debugging_debuggingintro",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cR4EdJhM?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Problem Solving",
+            "next":{
+              "lesson":"Git & GitHub (YouTube Playlist, watch all videos)",
+              "moduleId":"level1",
+              "lessonId":"gitgithub_gitgithubyoutubeplaylistwatchallvideos",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c89d585bccf94a949fe1e4fde1219907"
+            },
+            "points":0.5,
+            "order":6,
+            "title":"Problem Solving",
+            "url":"notion",
+            "uid":"problemsolving_problemsolving",
+            "assignment":false,
+            "resource":[],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Git & GitHub ",
+            "next":{
+              "lesson":"Elements, Console and Sources Tab",
+              "moduleId":"level1",
+              "lessonId":"devtools_elementsconsoleandsourcestab",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"743a8a6569464d0ba38b736f780090cd"
+            },
+            "points":0.5,
+            "order":7,
+            "title":"Git & GitHub (YouTube Playlist, watch all videos)",
+            "url":"notion",
+            "uid":"gitgithub_gitgithubyoutubeplaylistwatchallvideos",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=csLWSX0Ijgk&list=PL1whVIy6oz7Nq0iPmPia-jbCcVZj-yO5B&ab_channel=LearnVSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Dev Tools",
+            "next":{
+              "lesson":"JavaScript Conventions",
+              "moduleId":"level1",
+              "lessonId":"javascriptconventions_javascriptconventions",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"012f35285c1d4a689c3b1fd4e44ed3c3"
+            },
+            "points":1,
+            "order":8,
+            "title":"Elements, Console and Sources Tab",
+            "url":"notion",
+            "uid":"devtools_elementsconsoleandsourcestab",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=flj1uJckxu0&ab_channel=VSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript Conventions",
+            "next":{
+              "lesson":"Assignment - Daily Planet Editor",
+              "moduleId":"level1",
+              "lessonId":"javascriptconventions_assignmentdailyplaneteditor",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c32f9bf74f404573af582fc1815346ac"
+            },
+            "points":1,
+            "order":9,
+            "title":"JavaScript Conventions",
+            "url":"notion",
+            "uid":"javascriptconventions_javascriptconventions",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c7zvQMfk?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript Conventions",
+            "next":{
+              "lesson":"Selecting Multiple Elements",
+              "moduleId":"level1",
+              "lessonId":"dom_selectingmultipleelements",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"093716f42a60451e8cedad062f500f1b"
+            },
+            "points":1,
+            "order":10,
+            "title":"Assignment - Daily Planet Editor",
+            "url":"notion",
+            "uid":"javascriptconventions_assignmentdailyplaneteditor",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cwyzqPUz?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Query Selector & QuerySelectorAll",
+              "moduleId":"level1",
+              "lessonId":"dom_queryselectorqueryselectorall",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"f51d2136675848ea821b40100f6e6e50"
+            },
+            "points":0.5,
+            "order":11,
+            "title":"Selecting Multiple Elements",
+            "url":"notion",
+            "uid":"dom_selectingmultipleelements",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cMvDgPf2?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Modifying an Elements Text",
+              "moduleId":"level1",
+              "lessonId":"dom_modifyinganelementstext",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"97fbaa8da025455782ebea6f6933d80a"
+            },
+            "points":0.5,
+            "order":12,
+            "title":"Query Selector & QuerySelectorAll",
+            "url":"notion",
+            "uid":"dom_queryselectorqueryselectorall",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cVyMrvsp?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Modifying Styles",
+              "moduleId":"level1",
+              "lessonId":"dom_modifyingstyles",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"408b33eb87194590be0730e1ba9010db"
+            },
+            "points":0.5,
+            "order":13,
+            "title":"Modifying an Elements Text",
+            "url":"notion",
+            "uid":"dom_modifyinganelementstext",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c9PLazU3?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Modifying Styles: className & classList",
+              "moduleId":"level1",
+              "lessonId":"dom_modifyingstylesclassnameclasslist",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"7a2822f46b5f43aa9fc8b8e7d7358c49"
+            },
+            "points":0.5,
+            "order":14,
+            "title":"Modifying Styles",
+            "url":"notion",
+            "uid":"dom_modifyingstyles",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cy64rwHL?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Modifying Elements: Value",
+              "moduleId":"level1",
+              "lessonId":"dom_modifyingelementsvalue",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"17d7a83d12364c0ba4077fb955fdd491"
+            },
+            "points":0.5,
+            "order":15,
+            "title":"Modifying Styles: className & classList",
+            "url":"notion",
+            "uid":"dom_modifyingstylesclassnameclasslist",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c7zLarhv?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Creating Elements in JS",
+              "moduleId":"level1",
+              "lessonId":"dom_creatingelementsinjs",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"2d9ece8143924c6f86cab6f2e0054405"
+            },
+            "points":0.5,
+            "order":16,
+            "title":"Modifying Elements: Value",
+            "url":"notion",
+            "uid":"dom_modifyingelementsvalue",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cEerDLud?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Creating Elements in JS: InnerHtml",
+              "moduleId":"level1",
+              "lessonId":"dom_creatingelementsinjsinnerhtml",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"3b09c092978845d8bc7084eefb83dbc9"
+            },
+            "points":0.5,
+            "order":17,
+            "title":"Creating Elements in JS",
+            "url":"notion",
+            "uid":"dom_creatingelementsinjs",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cZn78RS7?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Creating Elements in JS: For loops & createElement",
+              "moduleId":"level1",
+              "lessonId":"dom_creatingelementsinjsforloopscreateelement",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"0c8edc4b45c0414bb456f06ad46431c9"
+            },
+            "points":0.5,
+            "order":18,
+            "title":"Creating Elements in JS: InnerHtml",
+            "url":"notion",
+            "uid":"dom_creatingelementsinjsinnerhtml",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c39Wd4Ay?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"DOM JS Review",
+              "moduleId":"level1",
+              "lessonId":"dom_domjsreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"f4420900f2f54d6da3109547ecaedb07"
+            },
+            "points":0.5,
+            "order":19,
+            "title":"Creating Elements in JS: For loops & createElement",
+            "url":"notion",
+            "uid":"dom_creatingelementsinjsforloopscreateelement",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c66BNVUy?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Self study - get the value from an input element",
+              "moduleId":"level1",
+              "lessonId":"dom_selfstudygetthevaluefromaninputelement",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"a074193c0daf4748b3d117fdec59882d"
+            },
+            "points":0.5,
+            "order":20,
+            "title":"DOM JS Review",
+            "url":"notion",
+            "uid":"dom_domjsreview",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/czNM4QSP",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"DJ JS - Event listener practice",
+              "moduleId":"level1",
+              "lessonId":"dom_djjseventlistenerpractice",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"100542f2617c47d58f2c4cc8864e58aa"
+            },
+            "points":2,
+            "order":21,
+            "title":"Self study - get the value from an input element",
+            "url":"notion",
+            "uid":"dom_selfstudygetthevaluefromaninputelement",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cVyMwNtZ?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"DOM Manipulation Olympics",
+              "moduleId":"level1",
+              "lessonId":"dom_dommanipulationolympics",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"6bc6602b1d1141e49121acc6455049d7"
+            },
+            "points":2,
+            "order":22,
+            "title":"DJ JS - Event listener practice",
+            "url":"notion",
+            "uid":"dom_djjseventlistenerpractice",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"DOM Debug",
+              "moduleId":"level1",
+              "lessonId":"dom_domdebug",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"4b84b16bf2cc46d69768407700108c44"
+            },
+            "points":4,
+            "order":23,
+            "title":"DOM Manipulation Olympics",
+            "url":"notion",
+            "uid":"dom_dommanipulationolympics",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://coursework.vschool.io/dom-olympics-guide/",
+                "imgUrl":"https://d1psgljc389n8q.cloudfront.net/bootcamps/logos/O9gdYuzf",
+                "title":"Coursework Lesson"
+              },
+              {
+                "url":" https://coursework.vschool.io/javascript-dom-manipulation/",
+                "imgUrl":"https://d1psgljc389n8q.cloudfront.net/bootcamps/logos/O9gdYuzf",
+                "title":"Coursework Lesson"
+              }
+            ],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"DOM",
+            "next":{
+              "lesson":"Anonymous Functions",
+              "moduleId":"level1",
+              "lessonId":"functions_anonymousfunctions",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"cb3b9ddbbaef4fea8d812adefa4e80da"
+            },
+            "points":2,
+            "order":24,
+            "title":"DOM Debug",
+            "url":"notion",
+            "uid":"dom_domdebug",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Functions",
+            "next":{
+              "lesson":"Arrow Functions",
+              "moduleId":"level1",
+              "lessonId":"functions_arrowfunctions",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"625ab975daac44b89ff5cde9910d54a9"
+            },
+            "points":0.5,
+            "order":25,
+            "title":"Anonymous Functions",
+            "url":"notion",
+            "uid":"functions_anonymousfunctions",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cgqyL6sP",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Functions",
+            "next":{
+              "lesson":"Forms part 1",
+              "moduleId":"level1",
+              "lessonId":"forms_formspart1",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"a35964fe64ae40e7bd7b129349258e39"
+            },
+            "points":0.5,
+            "order":26,
+            "title":"Arrow Functions",
+            "url":"notion",
+            "uid":"functions_arrowfunctions",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c8qPdWAk",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Forms",
+            "next":{
+              "lesson":"Forms  part 2",
+              "moduleId":"level1",
+              "lessonId":"forms_formspart2",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"cf133dd32cdc448dba214951f6258e8e"
+            },
+            "points":0.5,
+            "order":27,
+            "title":"Forms part 1",
+            "url":"notion",
+            "uid":"forms_formspart1",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cdPe9PAz",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Forms",
+            "next":{
+              "lesson":"Mom's Shopping List",
+              "moduleId":"level1",
+              "lessonId":"forms_momsshoppinglist",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"58cc8c80805f45659540f22b2bfe9758"
+            },
+            "points":4,
+            "order":28,
+            "title":"Forms  part 2",
+            "url":"notion",
+            "uid":"forms_formspart2",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cWQ36buL",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Forms",
+            "next":{
+              "lesson":"Mid-Level Quiz",
+              "moduleId":"level1",
+              "lessonId":"midlevelquiz_midlevelquiz",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"125d36a6be244020a397ac28de3bb291"
+            },
+            "points":4,
+            "order":29,
+            "title":"Mom's Shopping List",
+            "url":"notion",
+            "uid":"forms_momsshoppinglist",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Mid-Level QUIZ",
+            "next":{
+              "lesson":"Intro to Career Prep",
+              "moduleId":"level1",
+              "lessonId":"introtocareerprep_introtocareerprep",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"6cb9725217624a2097b18e08e8759df0"
+            },
+            "points":0,
+            "order":30,
+            "title":"Mid-Level Quiz",
+            "url":"notion",
+            "uid":"midlevelquiz_midlevelquiz",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://docs.google.com/forms/d/e/1FAIpQLSfMqoWS5vIEuEUdFS2_65nzRULieRHAfkKbHW1CcV7MisTsGQ/viewform?usp=sf_link",
+                "imgUrl":"https://www.klipfolio.com/gatsby-files/static/fb9368283183f15aaa27d360216cc452/google-sheets-blog-banner.png",
+                "title":"Google Resource"
+              }
+            ],
+            "type":"Quiz"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Intro to Career Prep",
+            "next":{
+              "lesson":"Mid Level assessment required before continuing",
+              "moduleId":"level1",
+              "lessonId":"assessment_midlevelassessmentrequiredbeforecontinuing",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c3e8971689fc4c168b509d16def05cc0"
+            },
+            "points":0.5,
+            "order":31,
+            "title":"Intro to Career Prep",
+            "url":"notion",
+            "uid":"introtocareerprep_introtocareerprep",
+            "assignment":false,
+            "resource":[],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Assessment ",
+            "next":{
+              "lesson":"Node.js Intro",
+              "moduleId":"level1",
+              "lessonId":"nodejs_nodejsintro",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"6f7fffed111f4cbcb3093d15bc499922"
+            },
+            "points":1,
+            "order":32,
+            "title":"Mid Level assessment required before continuing",
+            "url":"notion",
+            "uid":"assessment_midlevelassessmentrequiredbeforecontinuing",
+            "assignment":true,
+            "resource":[],
+            "type":"Evaluation"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Node.js ",
+            "next":{
+              "lesson":"NPM and readline-sync",
+              "moduleId":"level1",
+              "lessonId":"forms_npmandreadlinesync",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"7e8ba95447274f53aab9115ecf353a43"
+            },
+            "points":0.5,
+            "order":33,
+            "title":"Node.js Intro",
+            "url":"notion",
+            "uid":"nodejs_nodejsintro",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Forms",
+            "next":{
+              "lesson":"Node Calculator",
+              "moduleId":"level1",
+              "lessonId":"forms_nodecalculator",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"a0408ec57e3947919c640f3e49e95fdc"
+            },
+            "points":0.5,
+            "order":34,
+            "title":"NPM and readline-sync",
+            "url":"notion",
+            "uid":"forms_npmandreadlinesync",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=nbcloRxPfX0&ab_channel=LearnVSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Forms",
+            "next":{
+              "lesson":"Arrays Review",
+              "moduleId":"level1",
+              "lessonId":"javascript_arraysreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"3ea5d6e5e8024f17b93a834620ff5cc6"
+            },
+            "points":2,
+            "order":35,
+            "title":"Node Calculator",
+            "url":"notion",
+            "uid":"forms_nodecalculator",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Loops Review",
+              "moduleId":"level1",
+              "lessonId":"javascript_loopsreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"a7d7cbf2f6954bf7bbb526e494dddf48"
+            },
+            "points":0.5,
+            "order":36,
+            "title":"Arrays Review",
+            "url":"notion",
+            "uid":"javascript_arraysreview",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cvzqvZUR",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Arrays + Loops",
+              "moduleId":"level1",
+              "lessonId":"javascript_arraysloops",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"28c2b5d5e87f4a06bebc29bb02eec328"
+            },
+            "points":0.5,
+            "order":37,
+            "title":"Loops Review",
+            "url":"notion",
+            "uid":"javascript_loopsreview",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cWQVz3fV",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Loops and Arrays Practice",
+              "moduleId":"level1",
+              "lessonId":"javascript_loopsandarrayspractice",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"6d73e9c343d04b58817efbe6573284d3"
+            },
+            "points":0.5,
+            "order":38,
+            "title":"Arrays + Loops",
+            "url":"notion",
+            "uid":"javascript_arraysloops",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cN3WMNAL",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Nested Loops",
+              "moduleId":"level1",
+              "lessonId":"javascript_nestedloops",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"39986d02af0e458ab7b9e6848cd60569"
+            },
+            "points":2,
+            "order":39,
+            "title":"Loops and Arrays Practice",
+            "url":"notion",
+            "uid":"javascript_loopsandarrayspractice",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Loop Olympics",
+              "moduleId":"level1",
+              "lessonId":"javascript_loopolympics",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"8fd160815cc44b208e5908c774bb0a48"
+            },
+            "points":0.5,
+            "order":40,
+            "title":"Nested Loops",
+            "url":"notion",
+            "uid":"javascript_nestedloops",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cqRr8bUR",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Array Methods",
+              "moduleId":"level1",
+              "lessonId":"javascript_arraymethods",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"25f06a155c18439bb5fd479430690cb9"
+            },
+            "points":2,
+            "order":41,
+            "title":"Loop Olympics",
+            "url":"notion",
+            "uid":"javascript_loopolympics",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Array Methods Exercise",
+              "moduleId":"level1",
+              "lessonId":"javascript_arraymethodsexercise",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"7a24ae997dac41c1a113a84add165e03"
+            },
+            "points":0.5,
+            "order":42,
+            "title":"Array Methods",
+            "url":"notion",
+            "uid":"javascript_arraymethods",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cmkQJeAa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Forception",
+              "moduleId":"level1",
+              "lessonId":"javascript_forception",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"db1ade6feccd494eb67bbfeda618a9d2"
+            },
+            "points":1,
+            "order":43,
+            "title":"Array Methods Exercise",
+            "url":"notion",
+            "uid":"javascript_arraymethodsexercise",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"String Methods",
+              "moduleId":"level1",
+              "lessonId":"javascript_stringmethods",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"c1e544e3f3e24447a13446317019b5cf"
+            },
+            "points":2,
+            "order":44,
+            "title":"Forception",
+            "url":"notion",
+            "uid":"javascript_forception",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"String methods exercise",
+              "moduleId":"level1",
+              "lessonId":"javascript_stringmethodsexercise",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"f08663d9747041189882d8c0cd864acb"
+            },
+            "points":0.5,
+            "order":45,
+            "title":"String Methods",
+            "url":"notion",
+            "uid":"javascript_stringmethods",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c9PEkZfD",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Mutability and Value Types",
+              "moduleId":"level1",
+              "lessonId":"javascript_mutabilityandvaluetypes",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"ece9d1d139534fed9b7c7d669b78e4cb"
+            },
+            "points":1,
+            "order":46,
+            "title":"String methods exercise",
+            "url":"notion",
+            "uid":"javascript_stringmethodsexercise",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Constructor Functions",
+              "moduleId":"level1",
+              "lessonId":"javascript_constructorfunctions",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"d562cc64af0042cbaa6a9d2159658a9d"
+            },
+            "points":0.5,
+            "order":47,
+            "title":"Mutability and Value Types",
+            "url":"notion",
+            "uid":"javascript_mutabilityandvaluetypes",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cbW6m8cM",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Employee Records",
+              "moduleId":"level1",
+              "lessonId":"javascript_employeerecords",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"9c3e29a9304a489f911351c3ea4cb817"
+            },
+            "points":0.5,
+            "order":48,
+            "title":"Constructor Functions",
+            "url":"notion",
+            "uid":"javascript_constructorfunctions",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cEe88eUJ",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"ES6 Part 1",
+              "moduleId":"level1",
+              "lessonId":"javascript_es6part1",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"2531940deed1408ead4d75caa1d37876"
+            },
+            "points":2,
+            "order":49,
+            "title":"Employee Records",
+            "url":"notion",
+            "uid":"javascript_employeerecords",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"ES6 Part 2",
+              "moduleId":"level1",
+              "lessonId":"javascript_es6part2",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"66855fa39a704a8e850e95a298436515"
+            },
+            "points":0.5,
+            "order":50,
+            "title":"ES6 Part 1",
+            "url":"notion",
+            "uid":"javascript_es6part1",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cLrdmduQ",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Escape Room",
+              "moduleId":"level1",
+              "lessonId":"javascript_escaperoom",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"073b494080454dd0b122eee608784846"
+            },
+            "points":0.5,
+            "order":51,
+            "title":"ES6 Part 2",
+            "url":"notion",
+            "uid":"javascript_es6part2",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c4GEJJtv",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"JavaScript",
+            "next":{
+              "lesson":"Box Model Review",
+              "moduleId":"level1",
+              "lessonId":"boxmodel_boxmodelreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"7901da75c9b148209330c6c705069dec"
+            },
+            "points":2,
+            "order":52,
+            "title":"Escape Room",
+            "url":"notion",
+            "uid":"javascript_escaperoom",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Box Model",
+            "next":{
+              "lesson":"CSS Layout and Positioning",
+              "moduleId":"level1",
+              "lessonId":"css_csslayoutandpositioning",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"ddca5d008fd34b6dad47ac3abc997cd3"
+            },
+            "points":0.5,
+            "order":53,
+            "title":"Box Model Review",
+            "url":"notion",
+            "uid":"boxmodel_boxmodelreview",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cdPk4eSD",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/responsive-web-design/#basic-css",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"CSS ",
+            "next":{
+              "lesson":"Responsive Design",
+              "moduleId":"level1",
+              "lessonId":"responsivedesign_responsivedesign",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c6bca0dae2404e518cde8d12d9b3c78b"
+            },
+            "points":0.5,
+            "order":54,
+            "title":"CSS Layout and Positioning",
+            "url":"notion",
+            "uid":"css_csslayoutandpositioning",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cN3WMDs2?pl=pG66Msa",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Responsive Design",
+            "next":{
+              "lesson":"Responsive Color Grid From Scratch",
+              "moduleId":"level1",
+              "lessonId":"responsivedesign_responsivecolorgridfromscratch",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"6bcaad79be8640758b274f8bc2638cdb"
+            },
+            "points":0.5,
+            "order":55,
+            "title":"Responsive Design",
+            "url":"notion",
+            "uid":"responsivedesign_responsivedesign",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://scrimba.com/scrim/cEe8qdTB",
+                  "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                  "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Responsive Design",
+            "next":{
+              "lesson":"Flexbox Part 1",
+              "moduleId":"level1",
+              "lessonId":"flexbox_flexboxpart1",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"1a3bc24b42b5445888c5e1024d866573"
+            },
+            "points":2,
+            "order":56,
+            "title":"Responsive Color Grid From Scratch",
+            "url":"notion",
+            "uid":"responsivedesign_responsivecolorgridfromscratch",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Flexbox",
+            "next":{
+              "lesson":"Flexbox Part 2",
+              "moduleId":"level1",
+              "lessonId":"flexbox_flexboxpart2",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"9d2608891c61407f98f4e8c579f02fc1"
+            },
+            "points":0.5,
+            "order":57,
+            "title":"Flexbox Part 1",
+            "url":"notion",
+            "uid":"flexbox_flexboxpart1",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cy6dzQAd",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Flexbox",
+            "next":{
+              "lesson":"Business Time Project",
+              "moduleId":"level1",
+              "lessonId":"businesstime_businesstimeproject",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c06ce3a4d854479088870d45c7efbadf"
+            },
+            "points":0.5,
+            "order":58,
+            "title":"Flexbox Part 2",
+            "url":"notion",
+            "uid":"flexbox_flexboxpart2",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/c66Zznu2",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Business Time",
+            "next":{
+              "lesson":"Grid Part 1",
+              "moduleId":"level1",
+              "lessonId":"grid_gridpart1",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"2add7e59d462402da7effb86cf6bdb9b"
+            },
+            "points":4,
+            "order":59,
+            "title":"Business Time Project",
+            "url":"notion",
+            "uid":"businesstime_businesstimeproject",
+            "assignment":true,
+            "resource":[],
+            "type":"Project"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Grid",
+            "next":{
+              "lesson":"Grid Part 2",
+              "moduleId":"level1",
+              "lessonId":"grid_gridpart2",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"afea436f47444cfd96f4b31d18f0fa60"
+            },
+            "points":0.5,
+            "order":60,
+            "title":"Grid Part 1",
+            "url":"notion",
+            "uid":"grid_gridpart1",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cdPr9VCz",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Grid",
+            "next":{
+              "lesson":"Grid Part 3",
+              "moduleId":"level1",
+              "lessonId":"grid_gridpart3",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"c65027e75ae9450a8f5238d9f3c7c0ef"
+            },
+            "points":0.5,
+            "order":61,
+            "title":"Grid Part 2",
+            "url":"notion",
+            "uid":"grid_gridpart2",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/czN32MAw",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              },
+              {
+                "url":" https://www.freecodecamp.org/learn/responsive-web-design/#css-grid",
+                "imgUrl":"https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png",
+                "title":"FreeCodeCamp Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Grid",
+            "next":{
+              "lesson":"CSS Grid Practice",
+              "moduleId":"level1",
+              "lessonId":"grid_cssgridpractice",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"24027de0892f4296b98b67feccdf3bf4"
+            },
+            "points":0.5,
+            "order":62,
+            "title":"Grid Part 3",
+            "url":"notion",
+            "uid":"grid_gridpart3",
+            "assignment":false,
+            "resource":[
+              {
+                "url":"https://scrimba.com/scrim/cR4GvRCr",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":2,
+            "time":{
+              "increment":"hours",
+              "total":4
+            },
+            "section":"Grid",
+            "next":{
+              "lesson":"Debugging Review",
+              "moduleId":"level1",
+              "lessonId":"debuggingreview_debuggingreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"f866e30c4ab0478bbaead8d477241bc9"
+            },
+            "points":4,
+            "order":63,
+            "title":"CSS Grid Practice",
+            "url":"notion",
+            "uid":"grid_cssgridpractice",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Debugging Review",
+            "next":{
+              "lesson":"Code Art School",
+              "moduleId":"level1",
+              "lessonId":"codeartschool_codeartschool",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"97de4368b17e42fc8ef4992b94b3ebce"
+            },
+            "points":0.5,
+            "order":64,
+            "title":"Debugging Review",
+            "url":"notion",
+            "uid":"debuggingreview_debuggingreview",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=sJZMwzLJ7Xw&ab_channel=LearnVSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Code Art School",
+            "next":{
+              "lesson":"Bugs on a Plane",
+              "moduleId":"level1",
+              "lessonId":"bugsonaplane_bugsonaplane",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"ab7ebea751bf406e8bb3b3e95d953836"
+            },
+            "points":1,
+            "order":65,
+            "title":"Code Art School",
+            "url":"notion",
+            "uid":"codeartschool_codeartschool",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Bugs on a Plane",
+            "next":{
+              "lesson":"Problem Solving Review",
+              "moduleId":"level1",
+              "lessonId":"problemsolving_problemsolvingreview",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"3074bef4066c4348b4e20ea67671346d"
+            },
+            "points":1,
+            "order":66,
+            "title":"Bugs on a Plane",
+            "url":"notion",
+            "uid":"bugsonaplane_bugsonaplane",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Problem Solving ",
+            "next":{
+              "lesson":"fizzbuzz",
+              "moduleId":"level1",
+              "lessonId":"problemsolving_fizzbuzz",
+              "module":"Level 1"
+            },
+            "reviewerRole":"No Coach Needed",
+            "embed":{
+              "type":"notion",
+              "id":"213af75b476542ad83d2417fc7a1276e"
+            },
+            "points":0.5,
+            "order":67,
+            "title":"Problem Solving Review",
+            "url":"notion",
+            "uid":"problemsolving_problemsolvingreview",
+            "assignment":false,
+            "resource":[
+                {
+                  "url":"https://www.youtube.com/watch?v=oTyhqjlqpFw&ab_channel=LearnVSchool",
+                  "imgUrl":"https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+                  "title":"Youtube Lesson"
+              }
+            ],
+            "type":"Lesson"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Problem Solving",
+            "next":{
+              "lesson":"Problem Solving Practice",
+              "moduleId":"level1",
+              "lessonId":"problemsolving_problemsolvingpractice",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"4706fa12b1c14e0a8b3895aa07640f8b"
+            },
+            "points":2,
+            "order":68,
+            "title":"fizzbuzz",
+            "url":"notion",
+            "uid":"problemsolving_fizzbuzz",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Problem Solving",
+            "next":{
+              "lesson":"End-Of-Level Quiz",
+              "moduleId":"level1",
+              "lessonId":"level1finalquiz_endoflevelquiz",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"010daea8ae5c4b369c2931cac0eed69a"
+            },
+            "points":2,
+            "order":69,
+            "title":"Problem Solving Practice",
+            "url":"notion",
+            "uid":"problemsolving_problemsolvingpractice",
+            "assignment":true,
+            "resource":[],
+            "type":"JS Exercise"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"hours",
+              "total":1
+            },
+            "section":"Level 1 Final Quiz",
+            "next":{
+              "lesson":"Your Story",
+              "moduleId":"level1",
+              "lessonId":"level1careerprep_yourstory",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"8365619e69f84d2082c55079d41c5b7a"
+            },
+            "points":0,
+            "order":70,
+            "title":"End-Of-Level Quiz",
+            "url":"notion",
+            "uid":"level1finalquiz_endoflevelquiz",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://docs.google.com/forms/d/e/1FAIpQLScSLHCtpCDbI6xPxdF2T3rsBBvz_8r64uyj6mnakI25Su8ucw/viewform?usp=sf_link",
+                "imgUrl":"https://www.klipfolio.com/gatsby-files/static/fb9368283183f15aaa27d360216cc452/google-sheets-blog-banner.png",
+                "title":"Google Resource"
+              }
+            ],
+            "type":"Quiz"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Level 1 Career Prep",
+            "next":{
+              "lesson":"Impostor Syndrome",
+              "moduleId":"level1",
+              "lessonId":"level1careerprep_impostorsyndrome",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"ea3387b796d04006bd77e74bc96b1ee9"
+            },
+            "points":0.5,
+            "order":71,
+            "title":"Your Story",
+            "url":"notion",
+            "uid":"level1careerprep_yourstory",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":1,
+            "time":{
+              "increment":"mins",
+              "total":30
+            },
+            "section":"Level 1 Career Prep",
+            "next":{
+              "lesson":"Colossal Adventure RPG",
+              "moduleId":"level1",
+              "lessonId":"level1assessment_colossaladventurerpg",
+              "module":"Level 1"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"8a4504a74b5d49318a4cb715b703f7a8"
+            },
+            "points":0.5,
+            "order":72,
+            "title":"Impostor Syndrome",
+            "url":"notion",
+            "uid":"level1careerprep_impostorsyndrome",
+            "assignment":true,
+            "resource":[],
+            "type":"Assignment"
+          },
+          {
+            "daysToComplete":8,
+            "time":{
+              "increment":"hours",
+              "total":10
+            },
+            "section":"Level 1 Assessment",
+            "next":{
+              "lesson":"Problem Solving In Level 2",
+              "moduleId":"level2",
+              "lessonId":"intro_problemsolvinginlevel2",
+              "module":"Level 2"
+            },
+            "reviewerRole":"Technical Coach",
+            "embed":{
+              "type":"notion",
+              "id":"053770109bde47fd987347f50055115d"
+            },
+            "points":16,
+            "order":73,
+            "title":"Colossal Adventure RPG",
+            "url":"notion",
+            "uid":"level1assessment_colossaladventurerpg",
+            "assignment":true,
+            "resource":[
+              {
+                "url":"https://scrimba.com/c/cQqLVghJ",
+                "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+                "title":"Scrimba Lesson"
+              }
+            ],
+            "type":"Project"
+          }
+        ],
+      "totals": {
+        "timeToAllocate": "160 hrs",
+        "points": "97",
+        "daysToComplete": "45",
+        "daysToCompleteFromStart": "45"
+      },
+      "name": "level 1"
+  },
+  "level2": {
+  "uid": "level2",
+  "order": 2,
+  "embed": {
+      "type": "notion",
+      "id": "db3ab8079f7a4e0fa35e96a854f795ab"
+  },
+  "lessons":[
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":0
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Forms Part 2",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_formspart2",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"20a8b27c736345ea842d8ee3dfc985f3"
-          },
-          "points":1,
-          "order":3,
-          "title":"Simple HTML Calculator",
-          "url":"notion",
-          "uid":"2.1javascript2_simplehtmlcalculator",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "section":"Intro",
+        "next":{
+          "lesson":"Forms Part 1",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_formspart1",
+          "module":"Level 2"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Travel form",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_travelform",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"c2eb71d565954facac0e491b276b496e"
-          },
-          "points":0.5,
-          "order":4,
-          "title":"Forms Part 2",
-          "url":"notion",
-          "uid":"2.1javascript2_formspart2",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cWQ36buL",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"0ce2927397cb47d3bbe10ac386f69364"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Mario Pest Control",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_mariopestcontrol",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"be7a8ca0baf74d2d956f555ead59a1d9"
-          },
-          "points":2,
-          "order":5,
-          "title":"Travel form",
-          "url":"notion",
-          "uid":"2.1javascript2_travelform",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "points":0,
+        "order":1,
+        "title":"Problem Solving In Level 2",
+        "url":"notion",
+        "uid":"intro_problemsolvinginlevel2",
+        "assignment":false,
+        "resource":[],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
         },
-        {
-          "daysToComplete":2,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Web Storage",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_webstorage",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"92e596e229094e8db7c74991d56befbd"
-          },
-          "points":4,
-          "order":6,
-          "title":"Mario Pest Control",
-          "url":"notion",
-          "uid":"2.1javascript2_mariopestcontrol",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Simple HTML Calculator",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_simplehtmlcalculator",
+          "module":"Level 2"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"setTimeout and setInterval",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_settimeoutandsetinterval",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"152e90e09df14ee89d5928d603deb690"
-          },
-          "points":0.5,
-          "order":7,
-          "title":"Web Storage",
-          "url":"notion",
-          "uid":"2.1javascript2_webstorage",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cqRZeKAQ",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"27b6df535f104d6b8c6096c88def0793"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Go Speed Clicker!",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_gospeedclicker",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"41253e6b36d9493893a7a55df0b16455"
-          },
-          "points":0.5,
-          "order":8,
-          "title":"setTimeout and setInterval",
-          "url":"notion",
-          "uid":"2.1javascript2_settimeoutandsetinterval",
-          "assignment":false,
-          "resource":[],
-          "type":"Lesson"
+        "points":0.5,
+        "order":2,
+        "title":"Forms Part 1",
+        "url":"notion",
+        "uid":"2.1javascript2_formspart1",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cdPe9PAz",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":1
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Intro to Higher Order Functions",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_introtohigherorderfunctions",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"f4eb1abd9602463c9f032da68fb0b9fb"
-          },
-          "points":1,
-          "order":9,
-          "title":"Go Speed Clicker!",
-          "url":"notion",
-          "uid":"2.1javascript2_gospeedclicker",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Forms Part 2",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_formspart2",
+          "module":"Level 2"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Map",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_map",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"d86641304ef148acb481294abd2a2432"
-          },
-          "points":0.5,
-          "order":10,
-          "title":"Intro to Higher Order Functions",
-          "url":"notion",
-          "uid":"2.1javascript2_introtohigherorderfunctions",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cmkKZKT6",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"20a8b27c736345ea842d8ee3dfc985f3"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Array Map Exercises",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_arraymapexercises",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"7e1c8357e0cb459889262c151aaebb29"
-          },
-          "points":0.5,
-          "order":11,
-          "title":"Map",
-          "url":"notion",
-          "uid":"2.1javascript2_map",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/c8gdwBuB",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "points":1,
+        "order":3,
+        "title":"Simple HTML Calculator",
+        "url":"notion",
+        "uid":"2.1javascript2_simplehtmlcalculator",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
         },
-        {
-          "daysToComplete":2,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Filter",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_filter",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"83d559ebc09c4c479ba1d2d0c568f99d"
-          },
-          "points":4,
-          "order":12,
-          "title":"Array Map Exercises",
-          "url":"notion",
-          "uid":"2.1javascript2_arraymapexercises",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Travel form",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_travelform",
+          "module":"Level 2"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Array Filter Exercises",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_arrayfilterexercises",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"7a763f2f3c194ae98da55de4e107b294"
-          },
-          "points":1,
-          "order":13,
-          "title":"Filter",
-          "url":"notion",
-          "uid":"2.1javascript2_filter",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cJ4DaRUW",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"c2eb71d565954facac0e491b276b496e"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"\"ForEach, Find, FindIndex\"",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_foreachfindfindindex",
-            "module":"Level 2"
-          },
-          "reviewerRole":"Technical Coach",
-          "embed":{
-            "type":"notion",
-            "id":"bbc23954975642809aa450b35e442408"
-          },
-          "points":2,
-          "order":14,
-          "title":"Array Filter Exercises",
-          "url":"notion",
-          "uid":"2.1javascript2_arrayfilterexercises",
-          "assignment":true,
-          "resource":[],
-          "type":"Assignment"
+        "points":0.5,
+        "order":4,
+        "title":"Forms Part 2",
+        "url":"notion",
+        "uid":"2.1javascript2_formspart2",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cWQ36buL",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":10
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Some & Every",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_someevery",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"05f987050bd54bb1a0ff2f85001ee729"
-          },
-          "points":0.5,
-          "order":15,
-          "title":"\"ForEach, Find, FindIndex\"",
-          "url":"notion",
-          "uid":"2.1javascript2_foreachfindfindindex",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cQ9QLKT8",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Mario Pest Control",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_mariopestcontrol",
+          "module":"Level 2"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Sort",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_sort",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"70acdfa2fed54278b77ec1a59755d324"
-          },
-          "points":0.5,
-          "order":16,
-          "title":"Some & Every",
-          "url":"notion",
-          "uid":"2.1javascript2_someevery",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/c278m9T4",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"be7a8ca0baf74d2d956f555ead59a1d9"
         },
-        {
-          "daysToComplete":1,
-          "time":{
-            "increment":"mins",
-            "total":10
-          },
-          "section":"2.1 Javascript 2",
-          "next":{
-            "lesson":"Array Sort Exercises",
-            "moduleId":"level2",
-            "lessonId":"2.1javascript2_arraysortexercises",
-            "module":"Level 2"
-          },
-          "reviewerRole":"No Coach Needed",
-          "embed":{
-            "type":"notion",
-            "id":"90ad540e9db7400da2487230850f30a6"
-          },
-          "points":0.5,
-          "order":17,
-          "title":"Sort",
-          "url":"notion",
-          "uid":"2.1javascript2_sort",
-          "assignment":false,
-          "resource":[
-            {
-              "url":"https://scrimba.com/scrim/cbWa3dTk",
-              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
-              "title":"Scrimba Lesson"
-            }
-          ],
-          "type":"Lesson"
+        "points":2,
+        "order":5,
+        "title":"Travel form",
+        "url":"notion",
+        "uid":"2.1javascript2_travelform",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":2,
+        "time":{
+          "increment":"hours",
+          "total":4
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Web Storage",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_webstorage",
+          "module":"Level 2"
+        },
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"92e596e229094e8db7c74991d56befbd"
+        },
+        "points":4,
+        "order":6,
+        "title":"Mario Pest Control",
+        "url":"notion",
+        "uid":"2.1javascript2_mariopestcontrol",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"setTimeout and setInterval",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_settimeoutandsetinterval",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"152e90e09df14ee89d5928d603deb690"
+        },
+        "points":0.5,
+        "order":7,
+        "title":"Web Storage",
+        "url":"notion",
+        "uid":"2.1javascript2_webstorage",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cqRZeKAQ",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Go Speed Clicker!",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_gospeedclicker",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"41253e6b36d9493893a7a55df0b16455"
+        },
+        "points":0.5,
+        "order":8,
+        "title":"setTimeout and setInterval",
+        "url":"notion",
+        "uid":"2.1javascript2_settimeoutandsetinterval",
+        "assignment":false,
+        "resource":[],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":10
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Intro to Higher Order Functions",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_introtohigherorderfunctions",
+          "module":"Level 2"
+        },
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"f4eb1abd9602463c9f032da68fb0b9fb"
+        },
+        "points":1,
+        "order":9,
+        "title":"Go Speed Clicker!",
+        "url":"notion",
+        "uid":"2.1javascript2_gospeedclicker",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Map",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_map",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"d86641304ef148acb481294abd2a2432"
+        },
+        "points":0.5,
+        "order":10,
+        "title":"Intro to Higher Order Functions",
+        "url":"notion",
+        "uid":"2.1javascript2_introtohigherorderfunctions",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cmkKZKT6",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Array Map Exercises",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_arraymapexercises",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"7e1c8357e0cb459889262c151aaebb29"
+        },
+        "points":0.5,
+        "order":11,
+        "title":"Map",
+        "url":"notion",
+        "uid":"2.1javascript2_map",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/c8gdwBuB",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":2,
+        "time":{
+          "increment":"hours",
+          "total":4
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Filter",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_filter",
+          "module":"Level 2"
+        },
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"83d559ebc09c4c479ba1d2d0c568f99d"
+        },
+        "points":4,
+        "order":12,
+        "title":"Array Map Exercises",
+        "url":"notion",
+        "uid":"2.1javascript2_arraymapexercises",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":10
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Array Filter Exercises",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_arrayfilterexercises",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"7a763f2f3c194ae98da55de4e107b294"
+        },
+        "points":1,
+        "order":13,
+        "title":"Filter",
+        "url":"notion",
+        "uid":"2.1javascript2_filter",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cJ4DaRUW",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"hours",
+          "total":10
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"\"ForEach, Find, FindIndex\"",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_foreachfindfindindex",
+          "module":"Level 2"
+        },
+        "reviewerRole":"Technical Coach",
+        "embed":{
+          "type":"notion",
+          "id":"bbc23954975642809aa450b35e442408"
+        },
+        "points":2,
+        "order":14,
+        "title":"Array Filter Exercises",
+        "url":"notion",
+        "uid":"2.1javascript2_arrayfilterexercises",
+        "assignment":true,
+        "resource":[],
+        "type":"Assignment"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Some & Every",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_someevery",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"05f987050bd54bb1a0ff2f85001ee729"
+        },
+        "points":0.5,
+        "order":15,
+        "title":"\"ForEach, Find, FindIndex\"",
+        "url":"notion",
+        "uid":"2.1javascript2_foreachfindfindindex",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cQ9QLKT8",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Sort",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_sort",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"70acdfa2fed54278b77ec1a59755d324"
+        },
+        "points":0.5,
+        "order":16,
+        "title":"Some & Every",
+        "url":"notion",
+        "uid":"2.1javascript2_someevery",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/c278m9T4",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
+      },
+      {
+        "daysToComplete":1,
+        "time":{
+          "increment":"mins",
+          "total":30
+        },
+        "section":"2.1 Javascript 2",
+        "next":{
+          "lesson":"Array Sort Exercises",
+          "moduleId":"level2",
+          "lessonId":"2.1javascript2_arraysortexercises",
+          "module":"Level 2"
+        },
+        "reviewerRole":"No Coach Needed",
+        "embed":{
+          "type":"notion",
+          "id":"90ad540e9db7400da2487230850f30a6"
+        },
+        "points":0.5,
+        "order":17,
+        "title":"Sort",
+        "url":"notion",
+        "uid":"2.1javascript2_sort",
+        "assignment":false,
+        "resource":[
+          {
+            "url":"https://scrimba.com/scrim/cbWa3dTk",
+            "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+            "title":"Scrimba Lesson"
+          }
+        ],
+        "type":"Lesson"
         },
         {
           "daysToComplete":1,
