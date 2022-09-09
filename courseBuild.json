@@ -2865,8 +2865,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -2893,7 +2893,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -2925,8 +2925,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -2952,8 +2952,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -2980,7 +2980,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -3046,7 +3046,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.1 Javascript 2",
           "next":{
@@ -3073,7 +3073,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.2 Testing",
           "next":{
@@ -3105,8 +3105,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.2 Testing",
           "next":{
@@ -3133,7 +3133,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.2 Testing",
           "next":{
@@ -3166,7 +3166,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.4 CSS",
           "next":{
@@ -3198,8 +3198,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.4 CSS",
           "next":{
@@ -3226,7 +3226,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.4 CSS",
           "next":{
@@ -3258,8 +3258,8 @@
         {
           "daysToComplete":8,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":16
           },
           "section":"2.4 CSS",
           "next":{
@@ -3286,7 +3286,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.5 ES6",
           "next":{
@@ -3318,8 +3318,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"2.5 ES6",
           "next":{
@@ -3351,8 +3351,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.5 ES6",
           "next":{
@@ -3378,8 +3378,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.5 ES6",
           "next":{
@@ -3406,7 +3406,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.5 ES6",
           "next":{
@@ -3439,7 +3439,7 @@
           "daysToComplete":2,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.5 ES6",
           "next":{
@@ -3466,7 +3466,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3499,7 +3499,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3515,9 +3515,9 @@
           },
           "points":0.5,
           "order":39,
-          "title":"https://scrimba.com/scrim/ca3KJmTPRUD",
+          "title":"CRUD",
           "url":"notion",
-          "uid":"2.7http_httpsscrimba.comscrimca3kjmtprud",
+          "uid":"2.7crud",
           "assignment":false,
           "resource":[
             {
@@ -3532,7 +3532,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3564,8 +3564,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3592,7 +3592,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3625,7 +3625,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3652,7 +3652,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3679,7 +3679,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3706,7 +3706,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3733,7 +3733,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3760,7 +3760,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3787,7 +3787,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3814,7 +3814,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3841,7 +3841,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3874,7 +3874,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3906,8 +3906,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3934,7 +3934,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -3967,7 +3967,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4000,7 +4000,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4033,7 +4033,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4060,7 +4060,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4093,7 +4093,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4126,7 +4126,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4159,7 +4159,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4192,7 +4192,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4225,7 +4225,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4257,8 +4257,8 @@
         {
           "daysToComplete":4,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":8
           },
           "section":"2.7 HTTP",
           "next":{
@@ -4422,7 +4422,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4449,7 +4449,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4476,7 +4476,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4503,7 +4503,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4530,7 +4530,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4557,7 +4557,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4584,7 +4584,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4611,7 +4611,7 @@
           "daysToComplete":1,
           "time":{
             "increment":"mins",
-            "total":10
+            "total":30
           },
           "section":"3.1 React",
           "next":{
@@ -4988,8 +4988,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":1
           },
           "section":"3.1 React",
           "next":{
@@ -5927,8 +5927,8 @@
         {
           "daysToComplete":1,
           "time":{
-            "increment":"hour",
-            "total":1
+            "increment":"hours",
+            "total":2
           },
           "section":"3.2 React",
           "next":{
