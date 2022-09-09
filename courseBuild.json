@@ -5618,7 +5618,7 @@
             "lessonId":"3.2react_projectmapexperiencesdataintocomponents",
             "module":"Level 3"
           },
-          "reviewerRole":"No Coach Needed", 
+          "reviewerRole":"No Coach Needed",
           "embed":{
             "type":"notion",
             "id":"69950488edcc44d2bf9ea7cb12f1c43f"
@@ -5629,7 +5629,13 @@
           "url":"notion",
           "uid":"3.2react_mapquiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coe9846508d586a605352f235",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5656,7 +5662,13 @@
           "url":"notion",
           "uid":"3.2react_projectmapexperiencesdataintocomponents",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co0704006bcf75aae48fb04c3",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5683,7 +5695,13 @@
           "url":"notion",
           "uid":"3.2react_projectkeyprop",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cod824954b2c1feecf545bc49",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5710,7 +5728,13 @@
           "url":"notion",
           "uid":"3.2react_projectsoldoutbadge",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cod6a41078bdec8db3c39513b",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5737,7 +5761,13 @@
           "url":"notion",
           "uid":"3.2react_projectpassobjectasprops",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cod6f4e56bca6a67caca77684",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5764,14 +5794,20 @@
           "url":"notion",
           "uid":"3.2react_projectspreadobjectasprops",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cobc143b6a3172ef8cfd398f2",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }      
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.2 React",
           "next":{
@@ -5791,7 +5827,13 @@
           "url":"notion",
           "uid":"3.2react_section2soloproject",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co74f46f2b22693c5ea577559",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5818,14 +5860,20 @@
           "url":"notion",
           "uid":"3.2react_section2recap",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co2a74b21bbb7fef31887674b",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hour",
+            "total":1
           },
           "section":"3.2 React",
           "next":{
@@ -5851,8 +5899,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.2 React",
           "next":{
@@ -5878,8 +5926,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.2 React",
           "next":{
@@ -5926,7 +5974,13 @@
           "url":"notion",
           "uid":"3.3react_sectionintrofigmafile",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coeca4c67b87cf73d3fb64da5",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5953,7 +6007,13 @@
           "url":"notion",
           "uid":"3.3react_memegeneratorheader",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cocf84c4c9121d91a0095f3e9",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -5980,7 +6040,13 @@
           "url":"notion",
           "uid":"3.3react_memegeneratorform",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co2614ad9acf3a1840aef597b",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6007,7 +6073,13 @@
           "url":"notion",
           "uid":"3.3react_projectanalysis",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cocf44997b3d2993a32081ad5",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6034,7 +6106,13 @@
           "url":"notion",
           "uid":"3.3react_eventlisteners",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co45a4eba8c0ba3e8ba7df31b",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6061,7 +6139,13 @@
           "url":"notion",
           "uid":"3.3react_projectgetrandommeme",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co0d240b0b92838697b8749a1",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6088,7 +6172,13 @@
           "url":"notion",
           "uid":"3.3react_ourcurrentconundrum",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co53a4b68be61be4a8e646607",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6115,7 +6205,13 @@
           "url":"notion",
           "uid":"3.3react_propsvs.stateprops",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co090400fb604a75d6b889cf4",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6142,7 +6238,13 @@
           "url":"notion",
           "uid":"3.3react_propsvs.statestate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cofdc4d4d891c36fc3b0c77fa",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6169,7 +6271,13 @@
           "url":"notion",
           "uid":"3.3react_propsvs.statequiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coccb4f309e3305ece69fbc14",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6196,7 +6304,13 @@
           "url":"notion",
           "uid":"3.3react_usestate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/codb9407dbf1fcf31ecb6bb23",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6223,7 +6337,13 @@
           "url":"notion",
           "uid":"3.3react_usestatearraydestructuring",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co70846728c7d60f51fa1997c",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6250,7 +6370,13 @@
           "url":"notion",
           "uid":"3.3react_changingstate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co85d4a75911c0b43ce5ad623",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6277,7 +6403,13 @@
           "url":"notion",
           "uid":"3.3react_usestatecounterpractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co1f54adba032538022373b97",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6304,7 +6436,13 @@
           "url":"notion",
           "uid":"3.3react_usestatechangingstatewithacallbackfunction",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cof9245f4a914e8aaf080c783",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6331,14 +6469,20 @@
           "url":"notion",
           "uid":"3.3react_changingstatequiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co83142b1a97f4e79128e48fa",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hour",
+            "total":1
           },
           "section":"3.3 React",
           "next":{
@@ -6358,7 +6502,13 @@
           "url":"notion",
           "uid":"3.3react_projectaddimagestothememegenerator",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co2e04f5499f85d20fecbdf22",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6385,7 +6535,13 @@
           "url":"notion",
           "uid":"3.3react_challengeternarypractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co36143f0ba77648bc362c31d",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6412,7 +6568,13 @@
           "url":"notion",
           "uid":"3.3react_challengeflippingstatebackandforth",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co4674229b54cd8335c75e54d",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6439,7 +6601,13 @@
           "url":"notion",
           "uid":"3.3react_complexstatearrays",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co8f0498bb502fff29cbc8ee5",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6466,7 +6634,13 @@
           "url":"notion",
           "uid":"3.3react_complexstateobjects",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coe244c8c83abea08aa5a283c",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6493,14 +6667,20 @@
           "url":"notion",
           "uid":"3.3react_complexstateupdatingstateobjects",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cJLgWJSN",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hour",
+            "total":1
           },
           "section":"3.3 React",
           "next":{
@@ -6520,14 +6700,20 @@
           "url":"notion",
           "uid":"3.3react_projectrefactorstate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coaf8489fbc3d70a207f29713",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hour",
+            "total":1
           },
           "section":"3.3 React",
           "next":{
@@ -6574,7 +6760,13 @@
           "url":"notion",
           "uid":"3.3react_passingstateasprops",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co7444d9daf79f8f39a8ebef4",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6601,14 +6793,20 @@
           "url":"notion",
           "uid":"3.3react_settingstatefromchildcomponents",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co5104ccd8360769343dc8e51",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.3 React",
           "next":{
@@ -6634,8 +6832,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.3 React",
           "next":{
@@ -6682,7 +6880,13 @@
           "url":"notion",
           "uid":"3.3react_passingdataaround",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coc1c4e8db27909ac7f804244",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6709,7 +6913,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart1",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co4ff4b9f8504c9a03077bf2c",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6736,7 +6946,13 @@
           "url":"notion",
           "uid":"3.3react_dynamicstyles",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co57845e4a49eb86d4414b0fd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6763,7 +6979,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart2",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cobb94ca9aed421681cf67b3c",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6790,7 +7012,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart3.1localstate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co0264ad6929a556e38a6a10f",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6817,7 +7045,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart3.2unifiedstate",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coc544380b8da728809b4b5f2",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6844,7 +7078,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart4",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co2ee48359ffd4cb63f392139",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6871,7 +7111,13 @@
           "url":"notion",
           "uid":"3.3react_boxeschallengepart5",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cobdb4d3e907fa304af4b9958",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6898,7 +7144,13 @@
           "url":"notion",
           "uid":"3.3react_conditionalrendering",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co00d4a3c9a328b5ff96f418e",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6925,7 +7177,13 @@
           "url":"notion",
           "uid":"3.3react_conditionalrenderingpractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co7a3413c9530c3e2804c4916",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6952,7 +7210,13 @@
           "url":"notion",
           "uid":"3.3react_conditionalrenderingternary",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/codf54303b0d1934718a0bf5b",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -6979,7 +7243,13 @@
           "url":"notion",
           "uid":"3.3react_conditionalrenderingpractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co6c14590bfc4e8abe0ef2b40",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7006,7 +7276,13 @@
           "url":"notion",
           "uid":"3.3react_conditionalrenderingquiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coeaf48b69510213fee26c35d",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7033,7 +7309,13 @@
           "url":"notion",
           "uid":"3.3react_reactformsintro",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co2774b5e9623a1cad018bc49",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7060,7 +7342,13 @@
           "url":"notion",
           "uid":"3.3react_watchforinputchangesinreact",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co1bc45cd92a4e5e4aea7cc45",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7087,7 +7375,13 @@
           "url":"notion",
           "uid":"3.3react_forminputspractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co5014a2691f7e17ada7501af",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7114,7 +7408,13 @@
           "url":"notion",
           "uid":"3.3react_formsstateobject",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co4014fe8a23d6c6d376747ca",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7141,7 +7441,13 @@
           "url":"notion",
           "uid":"3.3react_formstateobjectpractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cob444ddabb8e498d051b98cb",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7168,7 +7474,13 @@
           "url":"notion",
           "uid":"3.3react_controlledinputs",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co5c7481f910db53cc421f020",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7195,7 +7507,13 @@
           "url":"notion",
           "uid":"3.3react_formsinreacttextarea",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cob6a41f7a22250f5f9bdf71e",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7222,7 +7540,13 @@
           "url":"notion",
           "uid":"3.3react_formsinreactcheckbox",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co6da4637a27cca33be7cb1d7",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7249,7 +7573,13 @@
           "url":"notion",
           "uid":"3.3react_formsinreactradiobuttons",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co14c423dbc2026a7a2b997a2",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7276,7 +7606,13 @@
           "url":"notion",
           "uid":"3.3react_formsinreactselectoption",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co83b466d859cf1d6c4b3efaf",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7303,7 +7639,13 @@
           "url":"notion",
           "uid":"3.3react_formsinreactsubmittingtheform",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coe43436db60b0c21a1cca067",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7330,7 +7672,13 @@
           "url":"notion",
           "uid":"3.3react_formsquiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coe3546b99ba848ab627ef5a3",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7357,14 +7705,20 @@
           "url":"notion",
           "uid":"3.3react_signupformpractice",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co30d477b8025a70873e8cb6a",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.3 React",
           "next":{
@@ -7390,8 +7744,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.3 React",
           "next":{
@@ -7438,7 +7792,13 @@
           "url":"notion",
           "uid":"3.3react_projectaddtexttoimage",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co9dd4288bcdb0c0cfe7a2d9c",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7465,7 +7825,13 @@
           "url":"notion",
           "uid":"3.3react_makingapicalls",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co9544abfb8036eb9ac767bb2",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7492,7 +7858,13 @@
           "url":"notion",
           "uid":"3.3react_introtouseeffect",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co1fd46e5be9b41273ebe14da",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7519,7 +7891,13 @@
           "url":"notion",
           "uid":"3.3react_useeffectsyntaxanddefaultbehavior",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cob274c08aeef0c6f307b8333",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7546,7 +7924,13 @@
           "url":"notion",
           "uid":"3.3react_useeffectdependenciesarray",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co4fc423992f2d9737eaa55f2",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7573,7 +7957,13 @@
           "url":"notion",
           "uid":"3.3react_useeffectquiz",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cob5747c8b19a658c6240e8a1",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7600,7 +7990,13 @@
           "url":"notion",
           "uid":"3.3react_useeffectforfetchingdata",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cof924a3f92d4ca7648780a8d",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7627,14 +8023,20 @@
           "url":"notion",
           "uid":"3.3react_useeffectwhentousedependencies",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co87f48fc9c487d958ddeca4a",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":1,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":2
           },
           "section":"3.3 React",
           "next":{
@@ -7681,7 +8083,13 @@
           "url":"notion",
           "uid":"3.3react_projectgetmemesfromapi",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coe9a494f854435f2630f2ce4",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7708,7 +8116,13 @@
           "url":"notion",
           "uid":"3.3react_stateandeffectpractices",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co3d647f0b559d6e65b6a2762",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7735,7 +8149,13 @@
           "url":"notion",
           "uid":"3.3react_useeffectcleanupfunction",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/coa6a4c9985b4339f164fe0ab",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7762,7 +8182,13 @@
           "url":"notion",
           "uid":"3.3react_usinganasyncfunctioninsideuseeffect",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/cw73rRud",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
@@ -7789,14 +8215,20 @@
           "url":"notion",
           "uid":"3.3react_section3recap",
           "assignment":false,
-          "resource":[],
+          "resource":[
+            {
+              "url":"https://scrimba.com/scrim/co5f14456bbe0f15f99e69ae1",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            }
+          ],
           "type":"Lesson"
         },
         {
           "daysToComplete":4,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":8
           },
           "section":"3.4 Final Project",
           "next":{
@@ -7876,8 +8308,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"3.5 Code Challenge",
           "next":{
@@ -8199,8 +8631,8 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
           "section":"4.1 Advanced React",
           "next":{
@@ -8252,7 +8684,43 @@
               "url":"https://scrimba.com/scrim/cgM8wMAm?pl=pk5dQCd",
               "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
               "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cgMwVeum?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cnkb3ECa?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cLp4ymAd?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cmdGrKtp?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cJp92vA2?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/cQqrgmTM?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
+            },
+            {
+              "url":"https://scrimba.com/scrim/c4PWZGsa?pl=pk5dQCd",
+              "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
+              "title":"Scrimba Lesson"
             }
+            
           ],
           "type":"Lesson"
         },
@@ -8424,10 +8892,10 @@
         {
           "daysToComplete":2,
           "time":{
-            "increment":"mins",
-            "total":10
+            "increment":"hours",
+            "total":4
           },
-          "section":"4.1 Advanced React",
+          "section":"4.1 Advanced React",  
           "next":{
             "lesson":"Ugly Things",
             "moduleId":"level4",

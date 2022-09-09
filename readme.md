@@ -26,7 +26,7 @@ following values:\
 ```
 "resource":[
     {
-        "url":"https://scrimba.com/scrim/cgM8wMAm?pl=pk5dQCd",
+        "url":"",
         "imgUrl":"https://miro.medium.com/max/1200/1*CZhtqH6dvPr1k5G3FB1guA.jpeg",
         "title":"Scrimba Lesson"
     }
